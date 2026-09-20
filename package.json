@@ -1,0 +1,32 @@
+{
+  "name": "wurzelhain",
+  "private": true,
+  "version": "0.5.0",
+  "type": "module",
+  "description": "Wurzelhain – ein deutschsprachiges Idle-Dorfspiel mit autonom lebenden Bewohnern.",
+  "scripts": {
+    "assets": "node scripts/prepare-assets.mjs",
+    "dev": "npm run assets && vite",
+    "build": "npm run assets && tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc -b --noEmit false --pretty",
+    "balance": "vitest run tests/balance.sim.test.ts --reporter=verbose"
+  },
+  "dependencies": {
+    "phaser": "3.90.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "6.1.1",
+    "playwright": "^1.63.0",
+    "typescript": "5.9.3",
+    "vite": "8.3.0",
+    "vitest": "5.0.1"
+  }
+}

@@ -1,0 +1,1920 @@
+{
+  "generiert": "npm run assets",
+  "dateien": 320,
+  "counts": {
+    "quelldaten": 8,
+    "laufzeit": 287,
+    "variante": 1,
+    "referenz": 5,
+    "duplikat": 19
+  },
+  "laufzeitBytes": 12194304,
+  "report": [
+    {
+      "source": "font/bitmap/monogram-bitfontmaker.json",
+      "status": "quelldaten",
+      "reason": "Bitmap-Quellformat, Renderer nutzt TTF"
+    },
+    {
+      "source": "font/bitmap/monogram-bitmap.json",
+      "status": "quelldaten",
+      "reason": "Bitmap-Quellformat, Renderer nutzt TTF"
+    },
+    {
+      "source": "font/bitmap/monogram-bitmap.png",
+      "status": "quelldaten",
+      "reason": "Bitmap-Quellformat, Renderer nutzt TTF"
+    },
+    {
+      "source": "font/bitmap/monogram-italic-bitmap.png",
+      "status": "quelldaten",
+      "reason": "Bitmap-Quellformat, Renderer nutzt TTF"
+    },
+    {
+      "source": "font/ttf/monogram-extended-italic.ttf",
+      "status": "laufzeit",
+      "runtime": "/assets/font/monogram-extended-italic.ttf",
+      "bytes": 60904
+    },
+    {
+      "source": "font/ttf/monogram-extended.ttf",
+      "status": "laufzeit",
+      "runtime": "/assets/font/monogram-extended.ttf",
+      "bytes": 59008
+    },
+    {
+      "source": "font/ttf/monogram.ttf",
+      "status": "variante",
+      "reason": "gekürzter Zeichensatz, extended deckt Deutsch ab"
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/AllAssetsPreview.png",
+      "status": "referenz",
+      "reason": "Übersichtsbild, kein Weltsprite"
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Animals/Boar.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Animals/Boar.png",
+      "bytes": 2291
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Animals/Chick.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Animals/Chick.png",
+      "bytes": 994
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Animals/Chicken.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Animals/Chicken.png",
+      "bytes": 1332
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Animals/HornedSheep.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Animals/HornedSheep.png",
+      "bytes": 1706
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Animals/Horse(32x32).png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Animals/Horse32x32.png",
+      "bytes": 10839
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Animals/MarineAnimals.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Animals/MarineAnimals.png",
+      "bytes": 2455
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Animals/Pig.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Animals/Pig.png",
+      "bytes": 2265
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Animals/Sheep.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Animals/Sheep.png",
+      "bytes": 1613
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanBarracks.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanBarracks.png",
+      "bytes": 24054
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanChapels.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanChapels.png",
+      "bytes": 16062
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanDocks.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanDocks.png",
+      "bytes": 9413
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanHouses.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanHouses.png",
+      "bytes": 10562
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanHuts.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanHuts.png",
+      "bytes": 6206
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanKeep.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanKeep.png",
+      "bytes": 23019
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanMarket.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanMarket.png",
+      "bytes": 10846
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanResources.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanResources.png",
+      "bytes": 22668
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanShip.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanShip.png",
+      "bytes": 7324
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanTaverns.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanTaverns.png",
+      "bytes": 14489
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanTower.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanTower.png",
+      "bytes": 11977
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanWell.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanWell.png",
+      "bytes": 8360
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanWorkshops.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Cyan/CyanWorkshops.png",
+      "bytes": 18060
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Enemy/Mausoleum.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Enemy/Mausoleum.png",
+      "bytes": 1727
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Enemy/Orc/AllBuildings-Preview.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Enemy/Orc/AllBuildings-Preview.png",
+      "bytes": 20321
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Enemy/SpearWall.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Enemy/SpearWall.png",
+      "bytes": 1394
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeBarracks.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeBarracks.png",
+      "bytes": 24052
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeChapels.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeChapels.png",
+      "bytes": 16121
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeDocks.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeDocks.png",
+      "bytes": 9379
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeHouses.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeHouses.png",
+      "bytes": 11906
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeHuts.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeHuts.png",
+      "bytes": 5986
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeKeep.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeKeep.png",
+      "bytes": 22963
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeMarket.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeMarket.png",
+      "bytes": 11149
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeResources.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeResources.png",
+      "bytes": 22429
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeShip.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeShip.png",
+      "bytes": 7219
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeTaverns.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeTaverns.png",
+      "bytes": 14467
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeTower.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeTower.png",
+      "bytes": 11861
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeWell.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeWell.png",
+      "bytes": 8140
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeWorkshops.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Lime/LimeWorkshops.png",
+      "bytes": 18265
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleBarracks.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleBarracks.png",
+      "bytes": 24086
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleChapels.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleChapels.png",
+      "bytes": 16193
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleDocks.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleDocks.png",
+      "bytes": 9378
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleHouses.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleHouses.png",
+      "bytes": 12117
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleHuts.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleHuts.png",
+      "bytes": 5955
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleKeep.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleKeep.png",
+      "bytes": 23134
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleMarket.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleMarket.png",
+      "bytes": 11076
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleResources.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleResources.png",
+      "bytes": 18355
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleShip.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleShip.png",
+      "bytes": 7113
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleTaverns.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleTaverns.png",
+      "bytes": 14368
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleTower.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleTower.png",
+      "bytes": 11852
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleWell.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleWell.png",
+      "bytes": 8196
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleWorkshops.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Purple/PurpleWorkshops.png",
+      "bytes": 18250
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedBarracks.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedBarracks.png",
+      "bytes": 24110
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedChapels.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedChapels.png",
+      "bytes": 16231
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedDocks.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedDocks.png",
+      "bytes": 9519
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedHouses.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedHouses.png",
+      "bytes": 12241
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedHuts.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedHuts.png",
+      "bytes": 5962
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedKeep.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedKeep.png",
+      "bytes": 23351
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedMarket.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedMarket.png",
+      "bytes": 11208
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedResources.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedResources.png",
+      "bytes": 18367
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedShip.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedShip.png",
+      "bytes": 7076
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedTaverns.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedTaverns.png",
+      "bytes": 14774
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedTower.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedTower.png",
+      "bytes": 12141
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedWell.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedWell.png",
+      "bytes": 8181
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Red/RedWorkshops.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Red/RedWorkshops.png",
+      "bytes": 18634
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/Barracks.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/Barracks.png",
+      "bytes": 2934
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/CaveV2.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/CaveV2.png",
+      "bytes": 1680
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/Chapels.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/Chapels.png",
+      "bytes": 1920
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/Docks.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/Docks.png",
+      "bytes": 9079
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/Houses.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/Houses.png",
+      "bytes": 1821
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/Huts.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/Huts.png",
+      "bytes": 1088
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/Keep.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/Keep.png",
+      "bytes": 3040
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/Market.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/Market.png",
+      "bytes": 2176
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/Resources.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/Resources.png",
+      "bytes": 22938
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/Taverns.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/Taverns.png",
+      "bytes": 2636
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/Tower.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/Tower.png",
+      "bytes": 15845
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/Tower2.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/Tower2.png",
+      "bytes": 15035
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Buildings/Wood/Workshops.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Buildings/Wood/Workshops.png",
+      "bytes": 2127
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Champions/Arthax.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Champions/Arthax.png",
+      "bytes": 5471
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Champions/Börg.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Champions/Boerg.png",
+      "bytes": 6534
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Champions/Gangblanc.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Champions/Gangblanc.png",
+      "bytes": 6669
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Champions/Grum.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Champions/Grum.png",
+      "bytes": 5504
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Champions/Kanji.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Champions/Kanji.png",
+      "bytes": 3416
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Champions/Katan.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Champions/Katan.png",
+      "bytes": 6127
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Champions/Okomo.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Champions/Okomo.png",
+      "bytes": 5947
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Champions/Zhinja.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Champions/Zhinja.png",
+      "bytes": 6303
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Demons/ArmouredRedDemon.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Demons/ArmouredRedDemon.png",
+      "bytes": 4421
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Demons/PurpleDemon.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Demons/PurpleDemon.png",
+      "bytes": 4606
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Demons/RedDemon.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Demons/RedDemon.png",
+      "bytes": 21541
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Dragons/BlackDragon.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Dragons/BlackDragon.png",
+      "bytes": 6860
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Dragons/BlueDragon.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Dragons/BlueDragon.png",
+      "bytes": 7252
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Dragons/RedDragon.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Dragons/RedDragon.png",
+      "bytes": 7190
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Dragons/WhiteDragon.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Dragons/WhiteDragon.png",
+      "bytes": 20479
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Dragons/YellowDragon.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Dragons/YellowDragon.png",
+      "bytes": 7189
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Frostborn/Mammoth.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Frostborn/Mammoth.png",
+      "bytes": 3206
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Frostborn/Wendigo.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Frostborn/Wendigo.png",
+      "bytes": 6260
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Frostborn/Yeti.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Frostborn/Yeti.png",
+      "bytes": 4186
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/GiantAnimals/GiantCrab.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/GiantAnimals/GiantCrab.png",
+      "bytes": 2187
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/ArcherGoblin.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Orcs/ArcherGoblin.png",
+      "bytes": 4092
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/ClubGoblin.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Orcs/ClubGoblin.png",
+      "bytes": 3955
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/FarmerGoblin.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Orcs/FarmerGoblin.png",
+      "bytes": 3403
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/KamikazeGoblin.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Orcs/KamikazeGoblin.png",
+      "bytes": 4725
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/Minotaur.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Orcs/Minotaur.png",
+      "bytes": 5109
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/Orc.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Orcs/Orc.png",
+      "bytes": 25840
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/OrcMage.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Orcs/OrcMage.png",
+      "bytes": 3419
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/OrcShaman.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Orcs/OrcShaman.png",
+      "bytes": 4489
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/SpearGoblin.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Orcs/SpearGoblin.png",
+      "bytes": 4180
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Pirates/PirateCaptain.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Pirates/PirateCaptain.png",
+      "bytes": 3916
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Pirates/PirateGrunt.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Pirates/PirateGrunt.png",
+      "bytes": 4120
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Pirates/PirateGunner.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Pirates/PirateGunner.png",
+      "bytes": 4307
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Slimes/KingSlimeBlue.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Slimes/KingSlimeBlue.png",
+      "bytes": 1462
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Slimes/KingSlimeGreen.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Slimes/KingSlimeGreen.png",
+      "bytes": 1456
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Slimes/MegaSlimeBlue.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Slimes/MegaSlimeBlue.png",
+      "bytes": 1291
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Slimes/MegaSlimeGreen.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Slimes/MegaSlimeGreen.png",
+      "bytes": 1254
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Slimes/Slime.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Slimes/Slime.png",
+      "bytes": 1242
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Slimes/SlimeBlue.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Slimes/SlimeBlue.png",
+      "bytes": 12455
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Undead/Necromancer.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Undead/Necromancer.png",
+      "bytes": 3509
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Monsters/Undead/Skeleton-Soldier.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Monsters/Undead/Skeleton-Soldier.png",
+      "bytes": 4601
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/AssasinTemplate.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/AssasinTemplate.png",
+      "bytes": 6077
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/AxemanTemplate.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/AxemanTemplate.png",
+      "bytes": 23241
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/CyanMelee/AssasinCyan.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/CyanMelee/AssasinCyan.png",
+      "bytes": 24636
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/CyanMelee/AxemanCyan.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/CyanMelee/AxemanCyan.png",
+      "bytes": 24568
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/CyanMelee/SpearmanCyan.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/CyanMelee/SpearmanCyan.png",
+      "bytes": 18426
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/CyanMelee/SwordsmanCyan.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/CyanMelee/SwordsmanCyan.png",
+      "bytes": 20203
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/LimeMelee/AssasinLime.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/LimeMelee/AssasinLime.png",
+      "bytes": 24066
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/LimeMelee/AxemanLime.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/LimeMelee/AxemanLime.png",
+      "bytes": 24156
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/LimeMelee/SpearmanLime.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/LimeMelee/SpearmanLime.png",
+      "bytes": 18177
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/LimeMelee/SwordsmanLime.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/LimeMelee/SwordsmanLime.png",
+      "bytes": 20156
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/PurpleMelee/AssasinPurple.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/PurpleMelee/AssasinPurple.png",
+      "bytes": 24159
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/PurpleMelee/AxemanPurple.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/PurpleMelee/AxemanPurple.png",
+      "bytes": 23990
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/PurpleMelee/SpearmanPurple.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/PurpleMelee/SpearmanPurple.png",
+      "bytes": 18270
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/PurpleMelee/SwordsmanPurple.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/PurpleMelee/SwordsmanPurple.png",
+      "bytes": 20185
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/RedMelee/AssasinRed.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/RedMelee/AssasinRed.png",
+      "bytes": 23896
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/RedMelee/AxemanRed.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/RedMelee/AxemanRed.png",
+      "bytes": 3028
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/RedMelee/SpearmanRed.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/RedMelee/SpearmanRed.png",
+      "bytes": 18066
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/RedMelee/SwordsmanRed.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/RedMelee/SwordsmanRed.png",
+      "bytes": 19986
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/SpearmanTemplate.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/SpearmanTemplate.png",
+      "bytes": 18540
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/SwordsmanTemplate.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Melee/SwordsmanTemplate.png",
+      "bytes": 20092
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Mounted/CyanKnight.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Mounted/CyanKnight.png",
+      "bytes": 12205
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Mounted/LimeKnight.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Mounted/LimeKnight.png",
+      "bytes": 12255
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Mounted/PurpleKnight.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Mounted/PurpleKnight.png",
+      "bytes": 12220
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Mounted/RedKnight.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Mounted/RedKnight.png",
+      "bytes": 12003
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/Ballista.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/Ballista.png",
+      "bytes": 3186
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/BowmanTemplate.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/BowmanTemplate.png",
+      "bytes": 18759
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/CyanRanged/BowmanCyan.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/CyanRanged/BowmanCyan.png",
+      "bytes": 18982
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/CyanRanged/MageCyan.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/CyanRanged/MageCyan.png",
+      "bytes": 16626
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/CyanRanged/MusketeerCyan.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/CyanRanged/MusketeerCyan.png",
+      "bytes": 4224
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/LimeRanged/BowmanLime.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/LimeRanged/BowmanLime.png",
+      "bytes": 19222
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/LimeRanged/MageLime.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/LimeRanged/MageLime.png",
+      "bytes": 12221
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/LimeRanged/MusketeerLime.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/LimeRanged/MusketeerLime.png",
+      "bytes": 4307
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/MageTemplate.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/MageTemplate.png",
+      "bytes": 2429
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/PurpleRanged/BowmanPurple.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/PurpleRanged/BowmanPurple.png",
+      "bytes": 19059
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/PurpleRanged/MagePurple.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/PurpleRanged/MagePurple.png",
+      "bytes": 11908
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/PurpleRanged/MusketeerPurple.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/PurpleRanged/MusketeerPurple.png",
+      "bytes": 4257
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/RedRanged/BowmanRed.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/RedRanged/BowmanRed.png",
+      "bytes": 19153
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/RedRanged/MageRed.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/RedRanged/MageRed.png",
+      "bytes": 16461
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/RedRanged/MusketeerRed.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Soldiers/Ranged/RedRanged/MusketeerRed.png",
+      "bytes": 4177
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Workers/CyanWorker/FarmerCyan.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Workers/CyanWorker/FarmerCyan.png",
+      "bytes": 14352
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Workers/FarmerTemplate.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Workers/FarmerTemplate.png",
+      "bytes": 14498
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Workers/LimeWorker/FarmerLime.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Workers/LimeWorker/FarmerLime.png",
+      "bytes": 14176
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Workers/PurpleWorker/FarmerPurple.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Workers/PurpleWorker/FarmerPurple.png",
+      "bytes": 13965
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Characters/Workers/RedWorker/FarmerRed.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Characters/Workers/RedWorker/FarmerRed.png",
+      "bytes": 13945
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/ColoredBuildingsPreview.png",
+      "status": "referenz",
+      "reason": "Übersichtsbild, kein Weltsprite"
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Ground/Cliff-Water.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Ground/Cliff-Water.png",
+      "bytes": 3835
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Ground/Cliff.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Ground/Cliff.png",
+      "bytes": 8788
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Ground/DeadGrass.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Ground/DeadGrass.png",
+      "bytes": 917
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Ground/Grass.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Ground/Grass.png",
+      "bytes": 740
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Ground/Shore.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Ground/Shore.png",
+      "bytes": 631
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Ground/TexturedGrass.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Ground/TexturedGrass.png",
+      "bytes": 6938
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Ground/Winter.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Ground/Winter.png",
+      "bytes": 657
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Miscellaneous/Boat.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Miscellaneous/Boat.png",
+      "bytes": 940
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Miscellaneous/Bridge.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Miscellaneous/Bridge.png",
+      "bytes": 1331
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Miscellaneous/Chests.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Miscellaneous/Chests.png",
+      "bytes": 1039
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Miscellaneous/PirateShip.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Miscellaneous/PirateShip.png",
+      "bytes": 2930
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Miscellaneous/Portal.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Miscellaneous/Portal.png",
+      "bytes": 944
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Miscellaneous/QuestBoard.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Miscellaneous/QuestBoard.png",
+      "bytes": 8024
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Miscellaneous/Signs.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Miscellaneous/Signs.png",
+      "bytes": 921
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Miscellaneous/StreetSigns.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Miscellaneous/StreetSigns.png",
+      "bytes": 11903
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Miscellaneous/Tombstones.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Miscellaneous/Tombstones.png",
+      "bytes": 1114
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Miscellaneous/TransportShip.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Miscellaneous/TransportShip.png",
+      "bytes": 1505
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Miscellaneous/WarShip.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Miscellaneous/WarShip.png",
+      "bytes": 3256
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Miscellaneous/Well.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Miscellaneous/Well.png",
+      "bytes": 1090
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Nature/Cactus.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Nature/Cactus.png",
+      "bytes": 1689
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Nature/CoconutTrees.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Nature/CoconutTrees.png",
+      "bytes": 1324
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Nature/DeadTrees.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Nature/DeadTrees.png",
+      "bytes": 1034
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Nature/PineTrees.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Nature/PineTrees.png",
+      "bytes": 1131
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Nature/Rocks.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Nature/Rocks.png",
+      "bytes": 1972
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Nature/Trees.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Nature/Trees.png",
+      "bytes": 1435
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Nature/Tumbleweed.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Nature/Tumbleweed.png",
+      "bytes": 851
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Nature/Wheatfield.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Nature/Wheatfield.png",
+      "bytes": 1079
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Nature/WinterDeadTrees.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Nature/WinterDeadTrees.png",
+      "bytes": 1342
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Nature/WinterTrees.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Nature/WinterTrees.png",
+      "bytes": 1843
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Objects/ArrowLong.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Objects/ArrowLong.png",
+      "bytes": 766
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Objects/ArrowShort.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Objects/ArrowShort.png",
+      "bytes": 794
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Objects/Axe.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Objects/Axe.png",
+      "bytes": 1498
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Objects/BallistaBolt.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Objects/BallistaBolt.png",
+      "bytes": 795
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Objects/Bullet.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Objects/Bullet.png",
+      "bytes": 679
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Objects/FireballProjectile.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Objects/FireballProjectile.png",
+      "bytes": 1167
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Objects/ShortBig.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Objects/ShortBig.png",
+      "bytes": 924
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Objects/Spear.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Objects/Spear.png",
+      "bytes": 696
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Objects/SwordShort.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/Objects/SwordShort.png",
+      "bytes": 899
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/OtherLinks.docx",
+      "status": "quelldaten",
+      "reason": "Danksagung und Links, kein Laufzeitasset"
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Templates/16x16Large.png",
+      "status": "referenz",
+      "reason": "Rastervorlage für die Entwicklung"
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Templates/16x16Small.png",
+      "status": "referenz",
+      "reason": "Rastervorlage für die Entwicklung"
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/Templates/32x32Small.png",
+      "status": "referenz",
+      "reason": "Rastervorlage für die Entwicklung"
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/User Interface/BoxSelector.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/User-Interface/BoxSelector.png",
+      "bytes": 790
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/User Interface/Highlighted-Boxes.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/User-Interface/Highlighted-Boxes.png",
+      "bytes": 650
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/User Interface/Icons-Essentials.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/User-Interface/Icons-Essentials.png",
+      "bytes": 4664
+    },
+    {
+      "source": "maingamesprites/MiniWorldSprites/User Interface/UiIcons.png",
+      "status": "laufzeit",
+      "runtime": "/assets/sprites/User-Interface/UiIcons.png",
+      "bytes": 9950
+    },
+    {
+      "source": "music/Minifantasy_Dungeon_Music/Acknowledgements.txt",
+      "status": "quelldaten",
+      "reason": "Lizenz-/Credittext, in den Credits zitiert"
+    },
+    {
+      "source": "music/Minifantasy_Dungeon_Music/Licensing.txt",
+      "status": "quelldaten",
+      "reason": "Lizenztext, in den Credits zitiert"
+    },
+    {
+      "source": "music/Minifantasy_Dungeon_Music/Music/Goblins_Dance_(Battle).wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/music/Goblins-Dance-Battle.wav",
+      "bytes": 3369334
+    },
+    {
+      "source": "music/Minifantasy_Dungeon_Music/Music/Goblins_Den_(Regular).wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/music/Goblins-Den-Regular.wav",
+      "bytes": 3686444
+    },
+    {
+      "source": "music/Minifantasy_Dungeon_Music/Patreon_Leohpaz.url",
+      "status": "quelldaten",
+      "reason": "Urheberlink, in den Credits zitiert"
+    },
+    {
+      "source": "sfx/01_chest_open_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/01-chest-open-1.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/01_chest_open_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/01-chest-open-2.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/01_chest_open_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/01-chest-open-3.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/01_chest_open_4.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/01-chest-open-4.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/02_chest_close_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/02-chest-close-1.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/02_chest_close_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/02-chest-close-2.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/02_chest_close_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/02-chest-close-3.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/03_crate_open_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/03-crate-open-1.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/03_crate_open_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/03-crate-open-2.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/03_crate_open_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/03-crate-open-3.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/04_sack_open_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/04-sack-open-1.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/04_sack_open_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/04-sack-open-2.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/04_sack_open_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/04-sack-open-3.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/05_door_open_1.mp3",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/05-door-open-1.mp3",
+      "bytes": 22568
+    },
+    {
+      "source": "sfx/05_door_open_2.mp3",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/05-door-open-2.mp3",
+      "bytes": 22568
+    },
+    {
+      "source": "sfx/06_door_close_1.mp3",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/06-door-close-1.mp3",
+      "bytes": 22568
+    },
+    {
+      "source": "sfx/06_door_close_2.mp3",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/06-door-close-2.mp3",
+      "bytes": 22568
+    },
+    {
+      "source": "sfx/07_human_atk_sword_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/07-human-atk-sword-1.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/07_human_atk_sword_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/07-human-atk-sword-2.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/07_human_atk_sword_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/07-human-atk-sword-3.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/08_human_charge_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/08-human-charge-1.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/08_human_charge_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/08-human-charge-2.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/09_human_charging_1_loop.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/09-human-charging-1-loop.wav",
+      "bytes": 132344
+    },
+    {
+      "source": "sfx/09_human_charging_2_loop.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/09-human-charging-2-loop.wav",
+      "bytes": 88244
+    },
+    {
+      "source": "sfx/10_human_special_atk_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/10-human-special-atk-1.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/10_human_special_atk_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/10-human-special-atk-2.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/11_human_damage_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/11-human-damage-1.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/11_human_damage_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/11-human-damage-2.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/11_human_damage_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/11-human-damage-3.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/12_human_jump_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/12-human-jump-1.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/12_human_jump_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/12-human-jump-2.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/12_human_jump_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/12-human-jump-3.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/13_human_jump_land_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/13-human-jump-land-1.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/13_human_jump_land_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/13-human-jump-land-2.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/14_human_death_spin.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/14-human-death-spin.wav",
+      "bytes": 88244
+    },
+    {
+      "source": "sfx/15_human_dash_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/15-human-dash-1.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/15_human_dash_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/15-human-dash-2.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/16_human_walk_stone_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/16-human-walk-stone-1.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/16_human_walk_stone_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/16-human-walk-stone-2.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/16_human_walk_stone_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/16-human-walk-stone-3.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/17_orc_atk_sword_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/17-orc-atk-sword-1.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/17_orc_atk_sword_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/17-orc-atk-sword-2.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/17_orc_atk_sword_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/17-orc-atk-sword-3.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/18_orc_charge.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/18-orc-charge.wav",
+      "bytes": 58844
+    },
+    {
+      "source": "sfx/19_orc_charging_loop.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/19-orc-charging-loop.wav",
+      "bytes": 88244
+    },
+    {
+      "source": "sfx/20_orc_special_atk.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/20-orc-special-atk.wav",
+      "bytes": 88244
+    },
+    {
+      "source": "sfx/21_orc_damage_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/21-orc-damage-1.wav",
+      "bytes": 88244
+    },
+    {
+      "source": "sfx/21_orc_damage_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/21-orc-damage-2.wav",
+      "bytes": 88244
+    },
+    {
+      "source": "sfx/21_orc_damage_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/21-orc-damage-3.wav",
+      "bytes": 88244
+    },
+    {
+      "source": "sfx/22_orc_jump_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/22-orc-jump-1.wav",
+      "bytes": 88244
+    },
+    {
+      "source": "sfx/22_orc_jump_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/22-orc-jump-2.wav",
+      "bytes": 88244
+    },
+    {
+      "source": "sfx/23_orc_jump_land.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/23-orc-jump-land.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/24_orc_death_spin.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/24-orc-death-spin.wav",
+      "bytes": 88244
+    },
+    {
+      "source": "sfx/25_orc_walk_stone_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/25-orc-walk-stone-1.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/25_orc_walk_stone_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/25-orc-walk-stone-2.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/25_orc_walk_stone_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/25-orc-walk-stone-3.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/26_sword_hit_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/26-sword-hit-1.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/26_sword_hit_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/26-sword-hit-2.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/26_sword_hit_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/26-sword-hit-3.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/27_sword_miss_1.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/27-sword-miss-1.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/27_sword_miss_2.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/27-sword-miss-2.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "sfx/27_sword_miss_3.wav",
+      "status": "laufzeit",
+      "runtime": "/assets/audio/sfx/27-sword-miss-3.wav",
+      "bytes": 29444
+    },
+    {
+      "source": "ui/Action_panel.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Action-panel.png",
+      "bytes": 2549
+    },
+    {
+      "source": "ui/Buttons.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Buttons.png",
+      "bytes": 16374
+    },
+    {
+      "source": "ui/Circle_menu.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Circle-menu.png",
+      "bytes": 11306
+    },
+    {
+      "source": "ui/Craft.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Craft.png",
+      "bytes": 26421
+    },
+    {
+      "source": "ui/Decorative_cracks.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Decorative-cracks.png",
+      "bytes": 5672
+    },
+    {
+      "source": "ui/Equipment.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Equipment.png",
+      "bytes": 11672
+    },
+    {
+      "source": "ui/Icons.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Icons.png",
+      "bytes": 13890
+    },
+    {
+      "source": "ui/Inventory.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Inventory.png",
+      "bytes": 8175
+    },
+    {
+      "source": "ui/Levels.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Levels.png",
+      "bytes": 6522
+    },
+    {
+      "source": "ui/Main_menu.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Main-menu.png",
+      "bytes": 4948
+    },
+    {
+      "source": "ui/Main_tiles.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Main-tiles.png",
+      "bytes": 9702
+    },
+    {
+      "source": "ui/Numbers.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Numbers.png",
+      "bytes": 8005
+    },
+    {
+      "source": "ui/Numbers_levels.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Numbers-levels.png",
+      "bytes": 4594
+    },
+    {
+      "source": "ui/PNG/Action_panel.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Action_panel.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Buttons.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Buttons.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Circle_menu.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Circle_menu.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Craft.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Craft.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Decorative_cracks.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Decorative_cracks.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Equipment.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Equipment.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Icons.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Icons.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Inventory.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Inventory.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Levels.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Levels.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Main_menu.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Main_menu.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Main_tiles.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Main_tiles.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Numbers.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Numbers.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Numbers_levels.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/Numbers_levels.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/PNG/Settings.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Settings.png",
+      "bytes": 7364
+    },
+    {
+      "source": "ui/PNG/Shop.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Shop.png",
+      "bytes": 8455
+    },
+    {
+      "source": "ui/PNG/Text1.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Text1.png",
+      "bytes": 5026
+    },
+    {
+      "source": "ui/PNG/Text2.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Text2.png",
+      "bytes": 3456
+    },
+    {
+      "source": "ui/PNG/Win_loose.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/Win-loose.png",
+      "bytes": 17511
+    },
+    {
+      "source": "ui/PNG/character_panel.png",
+      "status": "laufzeit",
+      "runtime": "/assets/ui/character-panel.png",
+      "bytes": 5391
+    },
+    {
+      "source": "ui/Settings.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/PNG/Settings.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/Shop.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/PNG/Shop.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/Text1.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/PNG/Text1.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/Text2.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/PNG/Text2.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/Win_loose.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/PNG/Win_loose.png",
+      "runtime": null
+    },
+    {
+      "source": "ui/character_panel.png",
+      "status": "duplikat",
+      "reason": "SHA-256-identisch mit ui/PNG/character_panel.png",
+      "runtime": null
+    }
+  ]
+}
