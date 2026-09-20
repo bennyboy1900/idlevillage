@@ -1,0 +1,8 @@
+node_modules/
+dist/
+public/assets/
+public/favicon.png
+.vercel/
+*.local
+.DS_Store
+tsconfig.tsbuildinfo

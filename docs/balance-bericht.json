@@ -1,0 +1,479 @@
+{
+  "erzeugt": "npm run balance",
+  "seed": 2024,
+  "minuten": 30,
+  "verlauf": [
+    {
+      "minute": 1,
+      "einwohner": 8,
+      "wohnplaetze": 8,
+      "nahrung": 84,
+      "holz": 33,
+      "stein": 45,
+      "muenzen": 42,
+      "gebaeude": 7,
+      "zufriedenheit": 57
+    },
+    {
+      "minute": 2,
+      "einwohner": 9,
+      "wohnplaetze": 12,
+      "nahrung": 93,
+      "holz": 71,
+      "stein": 45,
+      "muenzen": 52,
+      "gebaeude": 10,
+      "zufriedenheit": 57
+    },
+    {
+      "minute": 3,
+      "einwohner": 10,
+      "wohnplaetze": 20,
+      "nahrung": 100,
+      "holz": 79,
+      "stein": 56,
+      "muenzen": 77,
+      "gebaeude": 12,
+      "zufriedenheit": 55
+    },
+    {
+      "minute": 4,
+      "einwohner": 10,
+      "wohnplaetze": 20,
+      "nahrung": 113,
+      "holz": 72,
+      "stein": 56,
+      "muenzen": 77,
+      "gebaeude": 13,
+      "zufriedenheit": 54
+    },
+    {
+      "minute": 5,
+      "einwohner": 10,
+      "wohnplaetze": 20,
+      "nahrung": 131,
+      "holz": 104,
+      "stein": 65,
+      "muenzen": 92,
+      "gebaeude": 13,
+      "zufriedenheit": 55
+    },
+    {
+      "minute": 6,
+      "einwohner": 10,
+      "wohnplaetze": 20,
+      "nahrung": 128,
+      "holz": 113,
+      "stein": 73,
+      "muenzen": 92,
+      "gebaeude": 13,
+      "zufriedenheit": 55
+    },
+    {
+      "minute": 7,
+      "einwohner": 10,
+      "wohnplaetze": 20,
+      "nahrung": 117,
+      "holz": 174,
+      "stein": 75,
+      "muenzen": 112,
+      "gebaeude": 14,
+      "zufriedenheit": 64
+    },
+    {
+      "minute": 8,
+      "einwohner": 12,
+      "wohnplaetze": 20,
+      "nahrung": 121,
+      "holz": 110,
+      "stein": 53,
+      "muenzen": 112,
+      "gebaeude": 15,
+      "zufriedenheit": 65
+    },
+    {
+      "minute": 9,
+      "einwohner": 12,
+      "wohnplaetze": 20,
+      "nahrung": 136,
+      "holz": 111,
+      "stein": 57,
+      "muenzen": 142,
+      "gebaeude": 16,
+      "zufriedenheit": 66
+    },
+    {
+      "minute": 10,
+      "einwohner": 12,
+      "wohnplaetze": 20,
+      "nahrung": 117,
+      "holz": 97,
+      "stein": 63,
+      "muenzen": 196,
+      "gebaeude": 17,
+      "zufriedenheit": 66
+    },
+    {
+      "minute": 11,
+      "einwohner": 12,
+      "wohnplaetze": 20,
+      "nahrung": 101,
+      "holz": 100,
+      "stein": 68,
+      "muenzen": 212,
+      "gebaeude": 17,
+      "zufriedenheit": 66
+    },
+    {
+      "minute": 12,
+      "einwohner": 13,
+      "wohnplaetze": 20,
+      "nahrung": 103,
+      "holz": 110,
+      "stein": 74,
+      "muenzen": 228,
+      "gebaeude": 17,
+      "zufriedenheit": 66
+    },
+    {
+      "minute": 13,
+      "einwohner": 15,
+      "wohnplaetze": 20,
+      "nahrung": 118,
+      "holz": 68,
+      "stein": 69,
+      "muenzen": 228,
+      "gebaeude": 19,
+      "zufriedenheit": 66
+    },
+    {
+      "minute": 14,
+      "einwohner": 15,
+      "wohnplaetze": 20,
+      "nahrung": 128,
+      "holz": 62,
+      "stein": 75,
+      "muenzen": 228,
+      "gebaeude": 19,
+      "zufriedenheit": 66
+    },
+    {
+      "minute": 15,
+      "einwohner": 15,
+      "wohnplaetze": 20,
+      "nahrung": 130,
+      "holz": 41,
+      "stein": 81,
+      "muenzen": 228,
+      "gebaeude": 19,
+      "zufriedenheit": 57
+    },
+    {
+      "minute": 16,
+      "einwohner": 15,
+      "wohnplaetze": 20,
+      "nahrung": 129,
+      "holz": 34,
+      "stein": 86,
+      "muenzen": 273,
+      "gebaeude": 19,
+      "zufriedenheit": 56
+    },
+    {
+      "minute": 17,
+      "einwohner": 15,
+      "wohnplaetze": 20,
+      "nahrung": 139,
+      "holz": 27,
+      "stein": 92,
+      "muenzen": 293,
+      "gebaeude": 19,
+      "zufriedenheit": 56
+    },
+    {
+      "minute": 18,
+      "einwohner": 15,
+      "wohnplaetze": 20,
+      "nahrung": 150,
+      "holz": 16,
+      "stein": 98,
+      "muenzen": 318,
+      "gebaeude": 19,
+      "zufriedenheit": 57
+    },
+    {
+      "minute": 19,
+      "einwohner": 15,
+      "wohnplaetze": 20,
+      "nahrung": 135,
+      "holz": 3,
+      "stein": 104,
+      "muenzen": 336,
+      "gebaeude": 19,
+      "zufriedenheit": 56
+    },
+    {
+      "minute": 20,
+      "einwohner": 15,
+      "wohnplaetze": 20,
+      "nahrung": 155,
+      "holz": 3,
+      "stein": 110,
+      "muenzen": 354,
+      "gebaeude": 19,
+      "zufriedenheit": 55
+    },
+    {
+      "minute": 21,
+      "einwohner": 15,
+      "wohnplaetze": 20,
+      "nahrung": 149,
+      "holz": 6,
+      "stein": 110,
+      "muenzen": 388,
+      "gebaeude": 19,
+      "zufriedenheit": 55
+    },
+    {
+      "minute": 22,
+      "einwohner": 15,
+      "wohnplaetze": 20,
+      "nahrung": 167,
+      "holz": 15,
+      "stein": 114,
+      "muenzen": 426,
+      "gebaeude": 19,
+      "zufriedenheit": 55
+    },
+    {
+      "minute": 23,
+      "einwohner": 15,
+      "wohnplaetze": 20,
+      "nahrung": 180,
+      "holz": 31,
+      "stein": 120,
+      "muenzen": 482,
+      "gebaeude": 19,
+      "zufriedenheit": 55
+    },
+    {
+      "minute": 24,
+      "einwohner": 17,
+      "wohnplaetze": 20,
+      "nahrung": 193,
+      "holz": 40,
+      "stein": 120,
+      "muenzen": 510,
+      "gebaeude": 19,
+      "zufriedenheit": 56
+    },
+    {
+      "minute": 25,
+      "einwohner": 17,
+      "wohnplaetze": 20,
+      "nahrung": 210,
+      "holz": 41,
+      "stein": 120,
+      "muenzen": 536,
+      "gebaeude": 19,
+      "zufriedenheit": 55
+    },
+    {
+      "minute": 26,
+      "einwohner": 17,
+      "wohnplaetze": 20,
+      "nahrung": 198,
+      "holz": 36,
+      "stein": 115,
+      "muenzen": 568,
+      "gebaeude": 20,
+      "zufriedenheit": 56
+    },
+    {
+      "minute": 27,
+      "einwohner": 17,
+      "wohnplaetze": 20,
+      "nahrung": 164,
+      "holz": 37,
+      "stein": 116,
+      "muenzen": 601,
+      "gebaeude": 20,
+      "zufriedenheit": 55
+    },
+    {
+      "minute": 28,
+      "einwohner": 17,
+      "wohnplaetze": 20,
+      "nahrung": 171,
+      "holz": 40,
+      "stein": 122,
+      "muenzen": 636,
+      "gebaeude": 20,
+      "zufriedenheit": 55
+    },
+    {
+      "minute": 29,
+      "einwohner": 17,
+      "wohnplaetze": 20,
+      "nahrung": 163,
+      "holz": 39,
+      "stein": 134,
+      "muenzen": 656,
+      "gebaeude": 20,
+      "zufriedenheit": 56
+    },
+    {
+      "minute": 30,
+      "einwohner": 17,
+      "wohnplaetze": 20,
+      "nahrung": 166,
+      "holz": 50,
+      "stein": 135,
+      "muenzen": 696,
+      "gebaeude": 20,
+      "zufriedenheit": 56
+    }
+  ],
+  "gebaeude": [
+    {
+      "typ": "lager",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "brunnen",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "auftragsbrett",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "wegweiser",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "huette",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "huette",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "lager",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "feld",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "huette",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "feld",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "huette",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "huette",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "lager",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "saegewerk",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "muehle",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "backhaus",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "markt",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "lager",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "feld",
+      "stufe": 1,
+      "status": "aktiv"
+    },
+    {
+      "typ": "lager",
+      "stufe": 1,
+      "status": "aktiv"
+    }
+  ],
+  "forschung": [],
+  "auftraegeErfuellt": 14,
+  "statistik": {
+    "gewonnen": {
+      "stein": 170,
+      "ansehen": 12,
+      "bretter": 274,
+      "holz": 773,
+      "beeren": 490,
+      "muenzen": 676,
+      "getreide": 464.9999999999997,
+      "mehl": 120,
+      "brot": 92,
+      "kraeuter": 15,
+      "kristall": 2
+    },
+    "verbraucht": {
+      "beeren": 428.30826993527154,
+      "holz": 442,
+      "getreide": 225,
+      "mehl": 92,
+      "brot": 48,
+      "bretter": 25
+    },
+    "verbaut": {
+      "holz": 293,
+      "stein": 65,
+      "bretter": 13
+    },
+    "verworfen": {
+      "holz": 32.51073333333352,
+      "beeren": 44.60721684405348,
+      "stein": 0.07071322066894936,
+      "mehl": 2.292600000003631,
+      "brot": 1.8662666666667747
+    },
+    "haeuserGebaut": 3,
+    "geburten": 3,
+    "zugezogen": 8
+  }
+}

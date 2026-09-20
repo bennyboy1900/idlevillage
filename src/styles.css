@@ -1,0 +1,612 @@
+/* Wurzelhain – Oberfläche.
+   Pixelige Rahmen, warmes Holz, helles Pergament, ein zurückhaltender Akzent.
+   Keine Glanzeffekte, keine weichen Verläufe über Spielgrafik. */
+
+@font-face {
+  font-family: 'Monogram';
+  src: url('/assets/font/monogram-extended.ttf') format('truetype');
+  font-display: swap;
+}
+
+:root {
+  --holz: #6b4a2f;
+  --holz-hell: #8a6540;
+  --holz-dunkel: #4a3120;
+  --pergament: #f4e6c8;
+  --pergament-dunkel: #e2cfa8;
+  --tinte: #33251a;
+  --tinte-leise: #6d5a45;
+  --gruen: #5f8f3e;
+  --gruen-hell: #86c66a;
+  --wasser: #2a8f9a;
+  --akzent: #d99b3c;
+  --warnung: #c4542e;
+  --schatten: 0 2px 0 rgba(0, 0, 0, 0.35);
+  --rand: 2px solid var(--holz-dunkel);
+  --leiste-oben: 52px;
+  --leiste-unten: 58px;
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: #1d2a26;
+  color: var(--tinte);
+  font-family: 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  line-height: 1.45;
+  -webkit-text-size-adjust: 100%;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+h1,
+h2,
+h3,
+.zahl,
+.pixelschrift {
+  font-family: 'Monogram', 'Segoe UI', sans-serif;
+  letter-spacing: 0.02em;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 26px;
+  margin: 0 0 8px;
+}
+
+h3 {
+  font-size: 20px;
+  margin: 16px 0 6px;
+}
+
+/* --- Bausteine --------------------------------------------------------- */
+
+.tafel {
+  background: var(--pergament);
+  border: var(--rand);
+  border-radius: 3px;
+  box-shadow: var(--schatten);
+}
+
+.knopf {
+  background: var(--holz);
+  color: #fdf3df;
+  border: var(--rand);
+  border-radius: 3px;
+  padding: 10px 14px;
+  min-height: 44px;
+  min-width: 44px;
+  box-shadow: var(--schatten);
+  transition: transform 0.06s ease, background 0.12s ease;
+}
+
+.knopf:hover:not(:disabled) {
+  background: var(--holz-hell);
+}
+
+.knopf:active:not(:disabled) {
+  transform: translateY(2px);
+  box-shadow: none;
+}
+
+.knopf:focus-visible,
+.tab:focus-visible,
+.karte:focus-visible {
+  outline: 3px solid var(--akzent);
+  outline-offset: 2px;
+}
+
+.knopf:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.knopf.haupt {
+  background: var(--gruen);
+  border-color: #33521f;
+}
+
+.knopf.haupt:hover:not(:disabled) {
+  background: var(--gruen-hell);
+  color: var(--tinte);
+}
+
+.knopf.leise {
+  background: var(--pergament-dunkel);
+  color: var(--tinte);
+}
+
+.knopf.klein {
+  padding: 6px 10px;
+  min-height: 36px;
+  font-size: 13px;
+}
+
+.marke {
+  display: inline-block;
+  padding: 1px 7px;
+  border-radius: 999px;
+  background: var(--pergament-dunkel);
+  border: 1px solid var(--holz-hell);
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.marke.gut {
+  background: #d8efc6;
+  border-color: var(--gruen);
+}
+
+.marke.schlecht {
+  background: #f3d3c7;
+  border-color: var(--warnung);
+}
+
+/* --- Aufbau ------------------------------------------------------------ */
+
+.spiel {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+.welt {
+  position: absolute;
+  inset: 0;
+  touch-action: none;
+}
+
+.welt canvas {
+  display: block;
+  image-rendering: pixelated;
+}
+
+/* Ressourcenleiste */
+.ressourcen {
+  position: relative;
+  z-index: 3;
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 6px 10px;
+  padding-top: calc(6px + env(safe-area-inset-top));
+  background: linear-gradient(var(--holz), var(--holz-dunkel));
+  border-bottom: var(--rand);
+  color: #fdf3df;
+}
+
+.ressource {
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
+  padding: 3px 8px;
+  background: rgba(0, 0, 0, 0.22);
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+.ressource .wert {
+  font-family: 'Monogram', sans-serif;
+  font-size: 19px;
+}
+
+.ressource .rate {
+  font-size: 12px;
+  opacity: 0.85;
+}
+
+.ressource .rate.plus {
+  color: var(--gruen-hell);
+}
+
+.ressource .rate.minus {
+  color: #f3b2a0;
+}
+
+.ressourcen .rechts {
+  margin-left: auto;
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+/* Mittlerer Bereich */
+.buehne {
+  position: relative;
+  overflow: hidden;
+}
+
+.saeule-links {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  width: 232px;
+  max-height: calc(100% - 20px);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.saeule-links > * {
+  pointer-events: auto;
+}
+
+.inspektor {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  bottom: 10px;
+  width: 330px;
+  overflow-y: auto;
+  padding: 12px;
+  z-index: 2;
+}
+
+.panel {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  bottom: 10px;
+  width: 430px;
+  overflow-y: auto;
+  padding: 14px;
+  z-index: 4;
+}
+
+.panel-kopf {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+/* Untere Navigation */
+.navigation {
+  position: relative;
+  z-index: 5;
+  display: flex;
+  gap: 4px;
+  padding: 6px 8px;
+  padding-bottom: calc(6px + env(safe-area-inset-bottom));
+  background: linear-gradient(var(--holz-dunkel), #33230f);
+  border-top: var(--rand);
+}
+
+.tab {
+  flex: 1;
+  min-height: 44px;
+  padding: 6px 4px;
+  background: var(--holz);
+  color: #fdf3df;
+  border: var(--rand);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1px;
+  font-size: 12px;
+}
+
+.tab[aria-pressed='true'] {
+  background: var(--akzent);
+  color: var(--tinte);
+}
+
+.tab .symbol {
+  font-size: 17px;
+  line-height: 1;
+}
+
+/* --- Listen und Karten -------------------------------------------------- */
+
+.karten {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.karte {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 10px 12px;
+  background: #fbf3e2;
+  border: 1px solid var(--holz-hell);
+  border-radius: 3px;
+}
+
+.karte[aria-pressed='true'] {
+  border-color: var(--akzent);
+  background: #fdf0d4;
+}
+
+.karte .zeile {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  align-items: baseline;
+}
+
+.karte .titel {
+  font-family: 'Monogram', sans-serif;
+  font-size: 19px;
+}
+
+.karte .text {
+  font-size: 13px;
+  color: var(--tinte-leise);
+  margin: 2px 0 0;
+}
+
+.kosten {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 6px;
+  font-size: 13px;
+}
+
+.kosten span.fehlt {
+  color: var(--warnung);
+  font-weight: 600;
+}
+
+.balken {
+  height: 8px;
+  background: var(--pergament-dunkel);
+  border: 1px solid var(--holz-hell);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.balken > i {
+  display: block;
+  height: 100%;
+  background: var(--gruen);
+}
+
+.regler {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin: 10px 0;
+}
+
+.regler input[type='range'] {
+  width: 100%;
+  min-height: 44px;
+}
+
+.hinweis {
+  padding: 8px 10px;
+  background: #fbe6d5;
+  border: 1px solid var(--warnung);
+  border-radius: 3px;
+  font-size: 13px;
+}
+
+.protokoll {
+  font-size: 13px;
+  max-height: 180px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.protokoll .erfolg {
+  color: #2f6b22;
+}
+
+.protokoll .warnung {
+  color: var(--warnung);
+}
+
+.meldungen {
+  position: absolute;
+  left: 50%;
+  bottom: 14px;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  z-index: 8;
+  width: min(440px, calc(100% - 24px));
+}
+
+.meldung {
+  padding: 8px 12px;
+  border-radius: 3px;
+  border: var(--rand);
+  background: var(--pergament);
+  box-shadow: var(--schatten);
+  font-size: 14px;
+}
+
+.meldung.fehler {
+  background: #f6ddd2;
+  border-color: var(--warnung);
+}
+
+.meldung.erfolg {
+  background: #ddefcd;
+}
+
+/* --- Überlagerungen ----------------------------------------------------- */
+
+.ueberlagerung {
+  position: fixed;
+  inset: 0;
+  background: rgba(20, 16, 10, 0.72);
+  display: grid;
+  place-items: center;
+  padding: 16px;
+  z-index: 20;
+  overflow-y: auto;
+}
+
+.dialog {
+  width: min(640px, 100%);
+  max-height: min(86vh, 900px);
+  overflow-y: auto;
+  padding: 20px;
+}
+
+.startmenue {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  background: radial-gradient(circle at 50% 30%, #4f8f5a, #1d2a26);
+  padding: 16px;
+  overflow-y: auto;
+}
+
+.startkarte {
+  width: min(560px, 100%);
+  padding: 22px;
+  text-align: center;
+}
+
+.startkarte h1 {
+  font-size: 44px;
+  margin: 0 0 2px;
+}
+
+.startkarte p.unterzeile {
+  margin: 0 0 16px;
+  color: var(--tinte-leise);
+}
+
+.slots {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 12px 0;
+}
+
+.galerie-raster {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+}
+
+.galerie-feld {
+  background: #2e2a30;
+  border: 1px solid var(--holz-hell);
+  border-radius: 3px;
+  padding: 8px;
+  color: #f3e6cd;
+  font-size: 12px;
+}
+
+.galerie-feld canvas {
+  width: 100%;
+  image-rendering: pixelated;
+  background: repeating-conic-gradient(#4a4a55 0% 25%, #3a3a44 0% 50%) 50% / 16px 16px;
+}
+
+/* --- Tabellen und Hilfstext -------------------------------------------- */
+
+.werte {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.werte td {
+  padding: 3px 0;
+  border-bottom: 1px dotted var(--pergament-dunkel);
+}
+
+.werte td:last-child {
+  text-align: right;
+  font-family: 'Monogram', sans-serif;
+  font-size: 17px;
+}
+
+.leise {
+  color: var(--tinte-leise);
+  font-size: 13px;
+}
+
+.reihe {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.nur-fuer-screenreader {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* --- Hochformat und kleine Displays ------------------------------------ */
+
+@media (max-width: 900px), (orientation: portrait) {
+  .saeule-links {
+    width: min(232px, 46vw);
+  }
+
+  /* Kein dauerhaftes breites Seitenpanel: Details kommen als Bottom Sheet. */
+  .panel,
+  .inspektor {
+    left: 0;
+    right: 0;
+    top: auto;
+    bottom: 0;
+    width: auto;
+    max-height: 62vh;
+    border-radius: 10px 10px 0 0;
+    padding-bottom: calc(14px + env(safe-area-inset-bottom));
+  }
+
+  .panel.voll {
+    max-height: 92vh;
+  }
+
+  .ressourcen {
+    gap: 4px;
+    padding: 4px 8px;
+    padding-top: calc(4px + env(safe-area-inset-top));
+  }
+
+  .ressource {
+    padding: 2px 6px;
+  }
+
+  .ressource .wert {
+    font-size: 17px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
