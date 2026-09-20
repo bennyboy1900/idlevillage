@@ -1,0 +1,2242 @@
+[
+  {
+    "path": "maingamesprites/MiniWorldSprites/AllAssetsPreview.png",
+    "bytes": 111046,
+    "width": 1136,
+    "height": 304,
+    "sha256": "0B299A72F97BC6F37086D6FEB8A6CB32BA14D412F0D37FB70C281BC282594477"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/ColoredBuildingsPreview.png",
+    "bytes": 93959,
+    "width": 480,
+    "height": 416,
+    "sha256": "76A0E6834724B71745C1735D24A43FEFDB7AB5C192ABC9116BDF495FBE6A819F"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/OtherLinks.docx",
+    "bytes": 51405,
+    "width": null,
+    "height": null,
+    "sha256": "7403F0B39971CD2A03AE017566481DCF0E633EC4BA4177E0FF2C983C5FCF766E"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Animals/Boar.png",
+    "bytes": 2291,
+    "width": 64,
+    "height": 128,
+    "sha256": "7F2D20F1FBE103F7C783284C6622E75A1CBC9E4117E1D92F8584094D8735B528"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Animals/Chick.png",
+    "bytes": 994,
+    "width": 64,
+    "height": 64,
+    "sha256": "72D47CCABC735D777768479839803C19913371EDCC6C82E6DAF35B9B79F5407E"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Animals/Chicken.png",
+    "bytes": 1332,
+    "width": 64,
+    "height": 64,
+    "sha256": "473D946BA3BEDE660B2B0EC1D6263F9AAE6B91BB114C3625A84B8D9CD1097483"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Animals/HornedSheep.png",
+    "bytes": 1706,
+    "width": 64,
+    "height": 64,
+    "sha256": "DE98D8F8CBEEEF67EF431D21AE793A748AD6534D95AD70AB6B3682095D30FAC3"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Animals/Horse(32x32).png",
+    "bytes": 10839,
+    "width": 128,
+    "height": 192,
+    "sha256": "34847AA7D36CE67B2ACB13947ADBCA4E12C522E35426846B89B0976C93CCEDE8"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Animals/MarineAnimals.png",
+    "bytes": 2455,
+    "width": 80,
+    "height": 64,
+    "sha256": "F38CDAE34A485707A6B77ADF516109DD08E4A85A62EC7C3FBCD9556E89B7E78C"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Animals/Pig.png",
+    "bytes": 2265,
+    "width": 64,
+    "height": 128,
+    "sha256": "0E583192269D5303304C640E5A7E75344CF110F0A75F800CB23605F5DF3CE694"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Animals/Sheep.png",
+    "bytes": 1613,
+    "width": 64,
+    "height": 64,
+    "sha256": "601F7519FC525859797421DD94A091FE6EF4BB203EB02F839444F3408D330A00"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanBarracks.png",
+    "bytes": 24054,
+    "width": 64,
+    "height": 80,
+    "sha256": "4C9A0974E520B4EEC3E965910189B99D4442004FCA418FDD9C19A63C5E002174"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanChapels.png",
+    "bytes": 16062,
+    "width": 48,
+    "height": 32,
+    "sha256": "36FB90629EDEF3CDA5F6F063A1D8F68DF0F8D47815F66CEA07FF1CA653648E23"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanDocks.png",
+    "bytes": 9413,
+    "width": 64,
+    "height": 32,
+    "sha256": "400A493CAF1AB1804C5BE96F886D713A9ED3C0BE9F42AB53821708C4B7BC69C2"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanHouses.png",
+    "bytes": 10562,
+    "width": 48,
+    "height": 64,
+    "sha256": "8956C0AE450E248715EDDA071E405F628EE1F0F88A050A4CC3E2598088FD44D1"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanHuts.png",
+    "bytes": 6206,
+    "width": 80,
+    "height": 16,
+    "sha256": "9EB051BEA27E1F22F05F0AA3000DBC03A18CCB8CF9660E119D3F95DE580BAE6B"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanKeep.png",
+    "bytes": 23019,
+    "width": 96,
+    "height": 64,
+    "sha256": "6C13E1441542E51C2C9C11A0B52AAEFABC69A48B1D590A672EEE07CC29BDFB7E"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanMarket.png",
+    "bytes": 10846,
+    "width": 48,
+    "height": 64,
+    "sha256": "46D77C51BBFA65092D89DB96B8A136FC5E3EBAEBF7D9F072C325E2F1289C313F"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanResources.png",
+    "bytes": 22668,
+    "width": 48,
+    "height": 80,
+    "sha256": "D18377AF39321DFEA28D34DCEFEFD7B9B36696D1B4A90C23AEA4EA7122FCE8EF"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanShip.png",
+    "bytes": 7324,
+    "width": 96,
+    "height": 32,
+    "sha256": "E2A43586AE785FCD655C35467766DE814D44553E155DA57BCE55CB86B412EC6F"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanTaverns.png",
+    "bytes": 14489,
+    "width": 48,
+    "height": 64,
+    "sha256": "C0E82446B6711F66FE22974541A4940EBDF83878899E4F4FF34B4C5196CD5FE1"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanTower.png",
+    "bytes": 11977,
+    "width": 48,
+    "height": 96,
+    "sha256": "D46A5F809861809C72D6716C3CF5716B88D27581946D8F448E12F92446357BBA"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanWell.png",
+    "bytes": 8360,
+    "width": 48,
+    "height": 32,
+    "sha256": "A2336D27F91AB75597A44C6BA79BB702AD3960B6C049D46A10912093B0D74725"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Cyan/CyanWorkshops.png",
+    "bytes": 18060,
+    "width": 48,
+    "height": 48,
+    "sha256": "674D144EA96BFB78646270618F1B136FB6A4B3F37E3F2507DA187464E537CB79"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Enemy/Mausoleum.png",
+    "bytes": 1727,
+    "width": 64,
+    "height": 32,
+    "sha256": "3D5117D26293BDD7EB90E80DEEC7AD0AD7B0927DFC2E8DDFEAEC1C80EF663AF3"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Enemy/SpearWall.png",
+    "bytes": 1394,
+    "width": 48,
+    "height": 32,
+    "sha256": "B8295660315158CCCE5E3FEEBB6FC80128B8B9F745EEF8BF8A5EF740722A96A1"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Enemy/Orc/AllBuildings-Preview.png",
+    "bytes": 20321,
+    "width": 256,
+    "height": 192,
+    "sha256": "FC060E6BDB64BA548A159A8BF0A256BAF47D25B2EAF8E0942DEC9471DE2AB2F4"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeBarracks.png",
+    "bytes": 24052,
+    "width": 64,
+    "height": 80,
+    "sha256": "60329B7A97126ECDD485D047ECF8BD9B2203EC28AB8C21946B16C382DA288A07"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeChapels.png",
+    "bytes": 16121,
+    "width": 48,
+    "height": 32,
+    "sha256": "35E296EF9C19232F6812C11BE11376B1F173CAC3FB078C0DD5AA530DE212AC74"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeDocks.png",
+    "bytes": 9379,
+    "width": 64,
+    "height": 32,
+    "sha256": "2D09391CBC9CDA9371A23957FC33AE49AFEB30DAABB470926A40A8AEB4DA286C"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeHouses.png",
+    "bytes": 11906,
+    "width": 48,
+    "height": 64,
+    "sha256": "581595AB1516E6DA50A5663754C8006F00F0973E0CA6A0520471650018F0AA9B"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeHuts.png",
+    "bytes": 5986,
+    "width": 80,
+    "height": 16,
+    "sha256": "4D1736865653D9B963AA0276F5B682A0D3158D9F840F531609113B579BF56BF0"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeKeep.png",
+    "bytes": 22963,
+    "width": 96,
+    "height": 64,
+    "sha256": "28FF759A91474EEDACAB697E3C01E8CA5D1D720336CCFA0737D2F1142AA1301B"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeMarket.png",
+    "bytes": 11149,
+    "width": 48,
+    "height": 64,
+    "sha256": "C3516209BFE0F8B6689F14EDF838AD89C5607075775F38D4A9222E4BCD61FDD3"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeResources.png",
+    "bytes": 22429,
+    "width": 48,
+    "height": 80,
+    "sha256": "8CFCF85835339B65F5488FC36D50C1FAE1756E1676B07BD67017DFBC4432CCF9"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeShip.png",
+    "bytes": 7219,
+    "width": 96,
+    "height": 32,
+    "sha256": "35400854E41913E529AD58F977FFFF62DC7DA9B0FC6E37EBF855B363F370B0AA"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeTaverns.png",
+    "bytes": 14467,
+    "width": 48,
+    "height": 64,
+    "sha256": "9E17F13C278D895ACF06CF8C095A63FE838D66809997FB4273F9492ACDC2F249"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeTower.png",
+    "bytes": 11861,
+    "width": 48,
+    "height": 96,
+    "sha256": "579018611369817FF8695F87A5343C49B998DFFFD4F84C8DE08DB7F6BEE06CE7"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeWell.png",
+    "bytes": 8140,
+    "width": 48,
+    "height": 32,
+    "sha256": "E20C84C78768B8477B5F2D79045AA6EB54354907F3F57D85AD54CAEEBF0C7CF5"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Lime/LimeWorkshops.png",
+    "bytes": 18265,
+    "width": 48,
+    "height": 48,
+    "sha256": "3F0AAA1E99185F7C441727D8FF333B793DB57D55C1D888022354A33B8BCD0C61"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleBarracks.png",
+    "bytes": 24086,
+    "width": 64,
+    "height": 80,
+    "sha256": "91115B858C0C03BAF71E9DCC62A55EB05302FE6AB28D4873436A707E301CD784"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleChapels.png",
+    "bytes": 16193,
+    "width": 48,
+    "height": 32,
+    "sha256": "D818A1B8631591CFF7D6223960E37FB74B62E65D7C36AD3017EE6F6CDBF11683"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleDocks.png",
+    "bytes": 9378,
+    "width": 64,
+    "height": 32,
+    "sha256": "3EA097E0CE46CED4AF7A36B7CB4407914045922E66DE15DFBEB66DD15BBC44CC"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleHouses.png",
+    "bytes": 12117,
+    "width": 48,
+    "height": 64,
+    "sha256": "09C1D664D687A2FBC6975AD2615B19DE3C073882D7DA01DD0187217D3735A75F"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleHuts.png",
+    "bytes": 5955,
+    "width": 80,
+    "height": 16,
+    "sha256": "B61BBD6011AFC3DB501FB7296C3BE9761385CA5CDBCE9E2CB05AF5846D82B76A"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleKeep.png",
+    "bytes": 23134,
+    "width": 96,
+    "height": 64,
+    "sha256": "48DA41FDDA81786BC0EBD661AEAF921483EA2CDD5C74F2F563FCA4BEA0C0E6F0"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleMarket.png",
+    "bytes": 11076,
+    "width": 48,
+    "height": 64,
+    "sha256": "306F22FDA51B3452595FF396BE1E39DC09E0C498FC1BA7E63D0707E25390A53E"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleResources.png",
+    "bytes": 18355,
+    "width": 48,
+    "height": 80,
+    "sha256": "A711761647464149BA6D6610CE76E03C4A0F2594F5491E5C09A8BC01F29A3C82"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleShip.png",
+    "bytes": 7113,
+    "width": 96,
+    "height": 32,
+    "sha256": "50B5A71A39D7584894C451C971214016EA89CAE40B0010D8AAFAC6B83D23B141"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleTaverns.png",
+    "bytes": 14368,
+    "width": 48,
+    "height": 64,
+    "sha256": "81EF6F6200468171442A2D4708047811D7C218469C9F50BF1D516FDFB37372E6"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleTower.png",
+    "bytes": 11852,
+    "width": 48,
+    "height": 96,
+    "sha256": "B1A3DAC6921344E6C43C28808608B5493CFDC8E5B9806907CD0F521D6AC9C447"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleWell.png",
+    "bytes": 8196,
+    "width": 48,
+    "height": 32,
+    "sha256": "FD7A05A18C7C41A42CCA9639CDDB32BDC5349F2B6E2EE026AC5EBE97A656147C"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Purple/PurpleWorkshops.png",
+    "bytes": 18250,
+    "width": 48,
+    "height": 48,
+    "sha256": "3CB30B0B833518837EBA20E27C8576737AA40C894DCE9D4B888CBE6077503895"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedBarracks.png",
+    "bytes": 24110,
+    "width": 64,
+    "height": 80,
+    "sha256": "5C0398047923F0E453D4E3BAFF812145E2338CDCAEDC1318F502E6B6E39434F9"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedChapels.png",
+    "bytes": 16231,
+    "width": 48,
+    "height": 32,
+    "sha256": "77CB13A830A7913B7F29850E2908FF2A5ECB06E06B2B832F6E0AE505560F007E"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedDocks.png",
+    "bytes": 9519,
+    "width": 64,
+    "height": 32,
+    "sha256": "B551778195BBFFA4656D6A548C86C99D208862B14357699B4BB394B2D1FEB491"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedHouses.png",
+    "bytes": 12241,
+    "width": 48,
+    "height": 64,
+    "sha256": "8EAEDDE8415832A73229FC48965552D820D88A26094ABB737530466A740DFFFC"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedHuts.png",
+    "bytes": 5962,
+    "width": 80,
+    "height": 16,
+    "sha256": "99B541AFCAF13217CDD1673A8D521B682FC0AF81F6BB39D5FE9533E7DF2853C4"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedKeep.png",
+    "bytes": 23351,
+    "width": 96,
+    "height": 64,
+    "sha256": "16A256B1C09767658E47F97E6D9D53B886B03D8C03584D26C0DE86796EAA1771"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedMarket.png",
+    "bytes": 11208,
+    "width": 48,
+    "height": 64,
+    "sha256": "A33271094757BDAEDA3DDE1FFB0CAEA2E2DD963AF3B196F710005E6040E0E8F5"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedResources.png",
+    "bytes": 18367,
+    "width": 48,
+    "height": 80,
+    "sha256": "1AC43BE1406DC29CB55D171E2A922D15C72B3BE5328A9422F378450EBFC9EDA4"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedShip.png",
+    "bytes": 7076,
+    "width": 96,
+    "height": 32,
+    "sha256": "B978D5037351675C3B4A320B39A44E71DBE811A2C3D697FBC9D3462AB3BFB7DE"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedTaverns.png",
+    "bytes": 14774,
+    "width": 48,
+    "height": 64,
+    "sha256": "5896B45BDB3EAC6A19946CBF0FBF743ECE7BF5C8E3BF9614C50528DB4E7BEE4B"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedTower.png",
+    "bytes": 12141,
+    "width": 48,
+    "height": 96,
+    "sha256": "ED6F7D9833D3730CF62B76613306AAA72D6151AB22DE6DB88DD6DFA141735002"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedWell.png",
+    "bytes": 8181,
+    "width": 48,
+    "height": 32,
+    "sha256": "D589704DAC23751F9C27F12CD74852CE675EF415D9598C387C13619B6C338CAC"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Red/RedWorkshops.png",
+    "bytes": 18634,
+    "width": 48,
+    "height": 48,
+    "sha256": "5B2B61B2FDB2C1906210417FE23362E44F3593D855297A2D3DE3306094418B9F"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/Barracks.png",
+    "bytes": 2934,
+    "width": 64,
+    "height": 80,
+    "sha256": "C08ADA0541510D58279624966B149C4592096E165EB73DE5DB42D3BC90EB80C4"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/CaveV2.png",
+    "bytes": 1680,
+    "width": 48,
+    "height": 32,
+    "sha256": "45036D94390CC942811BA2A88B0C1D3AAB048510DF3C8A1AAFA33E3FF21DB3D0"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/Chapels.png",
+    "bytes": 1920,
+    "width": 48,
+    "height": 32,
+    "sha256": "14E650C37E4C8FDD9E64FF2AA5E7812BD11CBDB8BDE53EA5014DF9DA33E87075"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/Docks.png",
+    "bytes": 9079,
+    "width": 64,
+    "height": 32,
+    "sha256": "0CE513EEE84EB8D47435862024304F36DCE2B4610D06118F5A0A6B1B4E3A3234"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/Houses.png",
+    "bytes": 1821,
+    "width": 48,
+    "height": 64,
+    "sha256": "C5A50E1712C9D47D021523FC226452FD7F26806AB75BA96177DA647888C91402"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/Huts.png",
+    "bytes": 1088,
+    "width": 80,
+    "height": 16,
+    "sha256": "4A19B24743BA416645D95FD6BE5B92D524002916F9BA081DA01799FCD319072B"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/Keep.png",
+    "bytes": 3040,
+    "width": 96,
+    "height": 64,
+    "sha256": "28C9B4EFA2253A36C50AB0D34E5B1BF86C20800CEFD649F3330DD526B91A911E"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/Market.png",
+    "bytes": 2176,
+    "width": 48,
+    "height": 64,
+    "sha256": "935279EEE43E7F8513B2279213655FF29593D059B0A358F51CB9D8429964BAEE"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/Resources.png",
+    "bytes": 22938,
+    "width": 48,
+    "height": 80,
+    "sha256": "0FB29DE3C2833450E87F004347F5BDECAD3D2902B174A09F6DD4DD268623DA26"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/Taverns.png",
+    "bytes": 2636,
+    "width": 48,
+    "height": 64,
+    "sha256": "1E6F91CC1309B6D4212C556D37F1363B0E976B4C0406974F069B51534E49C78F"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/Tower.png",
+    "bytes": 15845,
+    "width": 48,
+    "height": 96,
+    "sha256": "EB0142DC538586A14860DD1B2ED41945B2F8C9879597C3E158D436D9D5939CB3"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/Tower2.png",
+    "bytes": 15035,
+    "width": 48,
+    "height": 96,
+    "sha256": "DB7BDF86EA94BD603DFCE5435EF5447035A1C3650FD465834B4BDE80F3D9B72E"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Buildings/Wood/Workshops.png",
+    "bytes": 2127,
+    "width": 48,
+    "height": 48,
+    "sha256": "3CE445EB36DDE4FACAD16BB3F4E96375F218E6980C8E3FEA62029BA50BE09CA2"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Champions/Arthax.png",
+    "bytes": 5471,
+    "width": 80,
+    "height": 128,
+    "sha256": "80261EB8F78FCD5D19FD8493041F90976E1A75ABC233593281747D086DA14E07"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Champions/Börg.png",
+    "bytes": 6534,
+    "width": 96,
+    "height": 128,
+    "sha256": "5FFD8E0F43938682D278FBE9306F5B9F049218C436D22EBDD88E1C0FFE925F54"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Champions/Gangblanc.png",
+    "bytes": 6669,
+    "width": 128,
+    "height": 128,
+    "sha256": "3ECF0DF328D94719568B0A9DB3B39A6CBB2F93EFEE55C92EFA096A8EA6800B0A"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Champions/Grum.png",
+    "bytes": 5504,
+    "width": 80,
+    "height": 144,
+    "sha256": "AF17382D85545AC8B9C245939DE7BFC38629993915C93C802054D9035B0074E5"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Champions/Kanji.png",
+    "bytes": 3416,
+    "width": 96,
+    "height": 128,
+    "sha256": "6E6D7D3B7ADDD3D77A476083052C91FB293B405E439FD807C74100C83934D894"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Champions/Katan.png",
+    "bytes": 6127,
+    "width": 96,
+    "height": 128,
+    "sha256": "D055F5E829C30FBAEF113BA3B93FE2DB781330108BB85D8A1452B6D15292F827"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Champions/Okomo.png",
+    "bytes": 5947,
+    "width": 80,
+    "height": 192,
+    "sha256": "CD68CF36D26D8E872E65587932072ED91633374EACAAEF39AD5071312756E6C0"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Champions/Zhinja.png",
+    "bytes": 6303,
+    "width": 96,
+    "height": 144,
+    "sha256": "0746C0C11BBE9B4CD4A74255F7127FD42D2D488C23C4D434E99AD68E45AC8136"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Demons/ArmouredRedDemon.png",
+    "bytes": 4421,
+    "width": 96,
+    "height": 128,
+    "sha256": "D97EB8305C57D0ED7B4677A5BEE3306BC819AD63A7826D317D943484326E7DF6"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Demons/PurpleDemon.png",
+    "bytes": 4606,
+    "width": 96,
+    "height": 128,
+    "sha256": "DA086E1CA1BD74D1F60D5995DA0E5D5B2871A5E08B2A8A25691A7CC27A21A995"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Demons/RedDemon.png",
+    "bytes": 21541,
+    "width": 96,
+    "height": 128,
+    "sha256": "E07C0DBF6657BE3390CA6D5131CFE7CD1D982C47A7114BA49A5B9B148DD53225"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Dragons/BlackDragon.png",
+    "bytes": 6860,
+    "width": 128,
+    "height": 256,
+    "sha256": "C79FCDE0B72733D356631C208E77F5FE699D3F721C9B702D65DCDD79CBA8ED18"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Dragons/BlueDragon.png",
+    "bytes": 7252,
+    "width": 128,
+    "height": 256,
+    "sha256": "95CE81EFE9096162B88BC3B11153E35F4813B0C8183643AAD8EFA515707CD756"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Dragons/RedDragon.png",
+    "bytes": 7190,
+    "width": 128,
+    "height": 256,
+    "sha256": "8AEC2297D621900522841122328EBCA7FA323467F471BD52360CDA8C850D90F4"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Dragons/WhiteDragon.png",
+    "bytes": 20479,
+    "width": 128,
+    "height": 256,
+    "sha256": "2092DA28E9BCE13672B39FD1A50B481B0632A47130FE76CE810192CB940DCEA5"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Dragons/YellowDragon.png",
+    "bytes": 7189,
+    "width": 128,
+    "height": 256,
+    "sha256": "B08B5EB38C6DD6D0DA8E7DCBCDE7AC4AE4503E86DF61F06393434CBC7C94E5B4"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Frostborn/Mammoth.png",
+    "bytes": 3206,
+    "width": 64,
+    "height": 128,
+    "sha256": "B65EC9EBC658F5158C06C7B0F38EF7DF8EE219935F8B7C804D55F429AD45B9D1"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Frostborn/Wendigo.png",
+    "bytes": 6260,
+    "width": 96,
+    "height": 128,
+    "sha256": "E412A912DC2ED7DA409A4C19229169E715F51B7B59DEB1ECBA1082626ABC2195"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Frostborn/Yeti.png",
+    "bytes": 4186,
+    "width": 96,
+    "height": 128,
+    "sha256": "7F8179C621EB1B331A31EC4BCB6B2224308F7BF86059979A1D40A1C00066BADF"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/GiantAnimals/GiantCrab.png",
+    "bytes": 2187,
+    "width": 48,
+    "height": 64,
+    "sha256": "633BD8B34565134C5400329DEC220BE65C73F1D14DEB471570D2BBD21A9920F0"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/ArcherGoblin.png",
+    "bytes": 4092,
+    "width": 80,
+    "height": 128,
+    "sha256": "462F756DD2D0ADC3A1BF3A1AB913961CFA1173FE7BF891A9158774E5B0435C84"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/ClubGoblin.png",
+    "bytes": 3955,
+    "width": 80,
+    "height": 128,
+    "sha256": "44F45545252511D431384308476317AB1C34870EBA8B4A1DA7189B941A3983CB"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/FarmerGoblin.png",
+    "bytes": 3403,
+    "width": 80,
+    "height": 112,
+    "sha256": "DCDD5200AEF1884464848142E192B7DEE289D5FD870F977533928B0CDBE26FDD"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/KamikazeGoblin.png",
+    "bytes": 4725,
+    "width": 80,
+    "height": 160,
+    "sha256": "E0E4C783A396368DF7CB0E59EE5E0380D73340539EAEFE9DC91A45DA18A0A1D2"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/Minotaur.png",
+    "bytes": 5109,
+    "width": 96,
+    "height": 112,
+    "sha256": "CA823DAE67C9BCDFACF8CCB2FF9C11FD4B34F3FE2E7597D97EBFB0BA9C665D5D"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/Orc.png",
+    "bytes": 25840,
+    "width": 96,
+    "height": 128,
+    "sha256": "7534BB56A7E33DFF882E96EF3A9DBF2CD2959B0DFFFC53A4F08E3CE57A9FDAFC"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/OrcMage.png",
+    "bytes": 3419,
+    "width": 96,
+    "height": 128,
+    "sha256": "757447713CF384085CE11E7D40307AE0884A421266CCF646279F1EF06F61B74F"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/OrcShaman.png",
+    "bytes": 4489,
+    "width": 80,
+    "height": 128,
+    "sha256": "F2CE0C5DDE16B83C9F407D2DF1FA9B9A7925D8A8CB6706EB7F55056F26116B17"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Orcs/SpearGoblin.png",
+    "bytes": 4180,
+    "width": 80,
+    "height": 160,
+    "sha256": "06FDFAD7DD7CA7CB398D3797E4FA29D5E3542624E6E8DE966B12AD2F1788744C"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Pirates/PirateCaptain.png",
+    "bytes": 3916,
+    "width": 80,
+    "height": 128,
+    "sha256": "4DFB60B1D2C948167CAEC37C4538DE95A92D31C093CAA62C16507985BA0ABCE6"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Pirates/PirateGrunt.png",
+    "bytes": 4120,
+    "width": 80,
+    "height": 128,
+    "sha256": "BD55FC67CD35A0FD0D87F2541147CD9368792B5DEC36D5085553382BC6E30134"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Pirates/PirateGunner.png",
+    "bytes": 4307,
+    "width": 80,
+    "height": 128,
+    "sha256": "C8DFEAE706EE4FF82C4B4CA72F0C726C4AC9794D8A7F29F8DCF2C8B9082FBD00"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Slimes/KingSlimeBlue.png",
+    "bytes": 1462,
+    "width": 96,
+    "height": 64,
+    "sha256": "0048A58BD100F12609DB5D96F8B0228FB7F4F955EF63F0215F9A01503BF454FB"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Slimes/KingSlimeGreen.png",
+    "bytes": 1456,
+    "width": 96,
+    "height": 64,
+    "sha256": "BC8EB025BCA857D94E0E2BFA9112BC9471A4CB32551ED5B2D2B68E07B9EB032D"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Slimes/MegaSlimeBlue.png",
+    "bytes": 1291,
+    "width": 96,
+    "height": 64,
+    "sha256": "080D92062737449CDE86C4BE8C86CB2037584D890BC58F296ACF11DF18FA7876"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Slimes/MegaSlimeGreen.png",
+    "bytes": 1254,
+    "width": 96,
+    "height": 64,
+    "sha256": "16B68F3CEC400A3AF9C2A0A74706A8FBA16D76FACCAF4EE1FA33ECE403BDFFD0"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Slimes/Slime.png",
+    "bytes": 1242,
+    "width": 96,
+    "height": 64,
+    "sha256": "91F13347025CB494CC6F3953CB8390F4060843D59A9093D3C8C98818FA8B49C5"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Slimes/SlimeBlue.png",
+    "bytes": 12455,
+    "width": 96,
+    "height": 64,
+    "sha256": "FE1D7A3004F564903F42903497589F743C3D9BE14A0A94127A09B5BB379817E9"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Undead/Necromancer.png",
+    "bytes": 3509,
+    "width": 96,
+    "height": 128,
+    "sha256": "ADB05AB6590049B917F8822D1E1FCD498496912182485113FDB0444AE679C3D3"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Monsters/Undead/Skeleton-Soldier.png",
+    "bytes": 4601,
+    "width": 80,
+    "height": 192,
+    "sha256": "9040B30C3D44D1B1468D7AF1A94E40809E65AB9DF0BA613DEEB25732DDD5EE3D"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/AssasinTemplate.png",
+    "bytes": 6077,
+    "width": 80,
+    "height": 192,
+    "sha256": "869524D0DDA0606C2D1D0A90D2166D145622CB3D541B5EE7AE637A9F6C9503B3"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/AxemanTemplate.png",
+    "bytes": 23241,
+    "width": 96,
+    "height": 96,
+    "sha256": "22640260CDD762B8C34A693EE77D419E5BB4DE91AED6636DAFE61231BD4E4260"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/SpearmanTemplate.png",
+    "bytes": 18540,
+    "width": 80,
+    "height": 224,
+    "sha256": "3C34D6F747C7A12FEAB05B41097102786538900D169C9C2DDD1167A8A9F97667"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/SwordsmanTemplate.png",
+    "bytes": 20092,
+    "width": 80,
+    "height": 192,
+    "sha256": "E3DBDE1853C3871F5854F8B3FDE81BBA5163E1F25E254A70E926F610F5042C2F"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/CyanMelee/AssasinCyan.png",
+    "bytes": 24636,
+    "width": 80,
+    "height": 192,
+    "sha256": "A1915F71CA953860267BA9EEFC2F7CEE37E76CF31408B928E29C9366DBCDDB4A"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/CyanMelee/AxemanCyan.png",
+    "bytes": 24568,
+    "width": 96,
+    "height": 96,
+    "sha256": "9ED1FF0A96ADD435812CA52A857C9DC0F5279DD51416589D0F7D879D2B7F472A"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/CyanMelee/SpearmanCyan.png",
+    "bytes": 18426,
+    "width": 80,
+    "height": 224,
+    "sha256": "F4821568CEE6F99F49A7081D5B0FE503B8A11A0A83282903C97A8CA3E9344CD0"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/CyanMelee/SwordsmanCyan.png",
+    "bytes": 20203,
+    "width": 80,
+    "height": 192,
+    "sha256": "57DD749FD0397445570A40840D400C4A704FC11C740E3AD4E2CB0B9EF3A7832A"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/LimeMelee/AssasinLime.png",
+    "bytes": 24066,
+    "width": 80,
+    "height": 192,
+    "sha256": "1F831E21BD4890C538E2BFA9E4D168F25CB55F99A88163B775601F58CF57B3A3"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/LimeMelee/AxemanLime.png",
+    "bytes": 24156,
+    "width": 96,
+    "height": 96,
+    "sha256": "9D6745B4C06F7AE803E69D6C17D698FADC2DD3B1B53741B9A519AB336A9D9E98"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/LimeMelee/SpearmanLime.png",
+    "bytes": 18177,
+    "width": 80,
+    "height": 224,
+    "sha256": "737D7FCEDF5C1F7F231314F20083ADD5104924B773EA86D08483ED17291C72BC"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/LimeMelee/SwordsmanLime.png",
+    "bytes": 20156,
+    "width": 80,
+    "height": 192,
+    "sha256": "3B3B30AC058069DC3F6B68A039F101BB2987BD6C842A5B33FB7C635A7AA39487"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/PurpleMelee/AssasinPurple.png",
+    "bytes": 24159,
+    "width": 80,
+    "height": 192,
+    "sha256": "D0CF5127FC2799412B761C45BD1A2D605B0E242AD43000B7EC2DF4B67358E707"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/PurpleMelee/AxemanPurple.png",
+    "bytes": 23990,
+    "width": 96,
+    "height": 96,
+    "sha256": "77491CD9EB2BA3414B597C310E3169D46DF861DB182F4777624AE01DC5C1F1DE"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/PurpleMelee/SpearmanPurple.png",
+    "bytes": 18270,
+    "width": 80,
+    "height": 224,
+    "sha256": "79AC6DBDE2AC249127F3549B519DD51189B2ED5A8DA0E3773907A0C36CCC1E83"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/PurpleMelee/SwordsmanPurple.png",
+    "bytes": 20185,
+    "width": 80,
+    "height": 192,
+    "sha256": "30A10E042CC2825450F85949A6F2BDE3A27C82680F650455F6DD2D9861AE73F8"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/RedMelee/AssasinRed.png",
+    "bytes": 23896,
+    "width": 80,
+    "height": 192,
+    "sha256": "B8E9422C4EECA8601094346B46B3B715398B05E0959FF27935CAFA4F4ED99ACF"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/RedMelee/AxemanRed.png",
+    "bytes": 3028,
+    "width": 96,
+    "height": 96,
+    "sha256": "3EBA169635FDDE96F664B40EFC4D1E86E44971074541429762EF48125DD6E5FA"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/RedMelee/SpearmanRed.png",
+    "bytes": 18066,
+    "width": 80,
+    "height": 224,
+    "sha256": "C7EF7910F40760369BB95456C9722B7BA3510D3802E832D3A3EAFD28D882EAA8"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Melee/RedMelee/SwordsmanRed.png",
+    "bytes": 19986,
+    "width": 80,
+    "height": 192,
+    "sha256": "EB3ABB7B11000CB7EBB8D6E1BD4EF3B64FF40CBCE7CF5712623D7449232265E2"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Mounted/CyanKnight.png",
+    "bytes": 12205,
+    "width": 128,
+    "height": 384,
+    "sha256": "89DD17D0CD49E1C0D12976AC519E9BCAE87E1ABCBEBFF629B750E0BAF8B36531"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Mounted/LimeKnight.png",
+    "bytes": 12255,
+    "width": 128,
+    "height": 384,
+    "sha256": "86F7634A6D44A08C67100B004543A975500F43C14923C43A1F69B4EB0AE6D13D"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Mounted/PurpleKnight.png",
+    "bytes": 12220,
+    "width": 128,
+    "height": 384,
+    "sha256": "21408B30F7B1DB4337A6AAE595D7660416591CCDF41365A6C17000C40096A4AF"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Mounted/RedKnight.png",
+    "bytes": 12003,
+    "width": 128,
+    "height": 384,
+    "sha256": "7721F19992532912D9372B2830FA3E62118C341DC423079CD10AC7F1CE4E672F"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/Ballista.png",
+    "bytes": 3186,
+    "width": 112,
+    "height": 64,
+    "sha256": "05F0321B0F252D02CC38181BA2DCF860FCF571F0EB07B7D0BAEF621D9E0CB831"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/BowmanTemplate.png",
+    "bytes": 18759,
+    "width": 80,
+    "height": 128,
+    "sha256": "753008CD4179152250B91CD4DC348081CF9CAC642903FB546FC78832748C4358"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/MageTemplate.png",
+    "bytes": 2429,
+    "width": 96,
+    "height": 128,
+    "sha256": "4E193D0A795AACEDFF7403CB51B1059254D638053F444AE4890187DDEFE67DB5"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/CyanRanged/BowmanCyan.png",
+    "bytes": 18982,
+    "width": 80,
+    "height": 128,
+    "sha256": "11ED3C420EB48828E1DDC077B3C1B9A88DABCDB47966376E623D1ABD55B41727"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/CyanRanged/MageCyan.png",
+    "bytes": 16626,
+    "width": 96,
+    "height": 128,
+    "sha256": "12B071B683BB7EDBA331075050C2231E7D3D27146DA350FECE72FF3C1A7F90F6"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/CyanRanged/MusketeerCyan.png",
+    "bytes": 4224,
+    "width": 80,
+    "height": 128,
+    "sha256": "8AFAC986B9F2C945418975CC6F4C619CE6CBDC6B58A1C3CB11015C973D6A612C"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/LimeRanged/BowmanLime.png",
+    "bytes": 19222,
+    "width": 80,
+    "height": 128,
+    "sha256": "53CA2F446B0837DE95EAC9E1F2E8E737AEAE067CCE8FDD47B1008B5DB53EA587"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/LimeRanged/MageLime.png",
+    "bytes": 12221,
+    "width": 96,
+    "height": 128,
+    "sha256": "F99D5BBC35D46D41E6723A0BF791CE70DC9FCC48BE93BA3EC0910995B9AE0E66"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/LimeRanged/MusketeerLime.png",
+    "bytes": 4307,
+    "width": 80,
+    "height": 128,
+    "sha256": "3CFE9E1AEC6F70F2171C53E5BC0A6DC295EAF5C991485D6CD57988FD3EC745BC"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/PurpleRanged/BowmanPurple.png",
+    "bytes": 19059,
+    "width": 80,
+    "height": 128,
+    "sha256": "14C486CDDDAC191596CC98913D5FC596E0DCBE27259F0D2B082D5EEE2AED1240"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/PurpleRanged/MagePurple.png",
+    "bytes": 11908,
+    "width": 96,
+    "height": 128,
+    "sha256": "E2EED0368EE8864430352CEA3190AA169866C1EA9567A78B3C039B09053DBE80"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/PurpleRanged/MusketeerPurple.png",
+    "bytes": 4257,
+    "width": 80,
+    "height": 128,
+    "sha256": "68BF736C8E53B4E30354A9C18E1026B633283BBAFF81D529B499B511EE0AB1A9"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/RedRanged/BowmanRed.png",
+    "bytes": 19153,
+    "width": 80,
+    "height": 128,
+    "sha256": "B2E59899FEE70CF0DB6CA29D11EDDB0673F42F75F82CFAA51C18271131DC4716"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/RedRanged/MageRed.png",
+    "bytes": 16461,
+    "width": 96,
+    "height": 128,
+    "sha256": "0742DE774CCE3AA96125DD60F3E308387D202B18830FDEF26329C0F3D377AC8B"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Soldiers/Ranged/RedRanged/MusketeerRed.png",
+    "bytes": 4177,
+    "width": 80,
+    "height": 128,
+    "sha256": "CA80AB5B2D0D6F6FDFB66BD10EA53A9FAF6F58331C0BBB523C3D76F73C8A84FA"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Workers/FarmerTemplate.png",
+    "bytes": 14498,
+    "width": 80,
+    "height": 192,
+    "sha256": "79298D1B8A06070E7219972B55F9EB2C84FD3DDE7468BBC6C09858D0F5C76F54"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Workers/CyanWorker/FarmerCyan.png",
+    "bytes": 14352,
+    "width": 80,
+    "height": 192,
+    "sha256": "7C6B4D28610050392878DED3DA57C0EC8D4A5B374C6527A105AE21A6A7379746"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Workers/LimeWorker/FarmerLime.png",
+    "bytes": 14176,
+    "width": 80,
+    "height": 192,
+    "sha256": "DB91EE4929AAD2DA3D6C0818F56B5BD8F17DF9DBCB8F616CA1F896A5C0894192"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Workers/PurpleWorker/FarmerPurple.png",
+    "bytes": 13965,
+    "width": 80,
+    "height": 192,
+    "sha256": "DBD252B410B719552B92D6887DE20B2C025764CE0D89CB76069BD5ED874B6499"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Characters/Workers/RedWorker/FarmerRed.png",
+    "bytes": 13945,
+    "width": 80,
+    "height": 192,
+    "sha256": "760CF34BA17446544F442B0FF2F03A4F7FD8C43264F04A7A20E8D74200FB79E0"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Ground/Cliff-Water.png",
+    "bytes": 3835,
+    "width": 80,
+    "height": 96,
+    "sha256": "4A82CE556F127C358000D082F6C6659EDDC175BDA70CB5AB83D018783CB3B6BC"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Ground/Cliff.png",
+    "bytes": 8788,
+    "width": 112,
+    "height": 144,
+    "sha256": "84B98090E28ED5C7E4BE1503E91C9E8B27F491569C3D34C2E7F90AAFCDB6FAD2"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Ground/DeadGrass.png",
+    "bytes": 917,
+    "width": 48,
+    "height": 32,
+    "sha256": "7ACCBFEB8DF0AD939137150027620839D8D293147EEDB1C093A37E943DBC0B08"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Ground/Grass.png",
+    "bytes": 740,
+    "width": 80,
+    "height": 16,
+    "sha256": "741B421DBA48A116CE6ACAF2DB534CE7BBB6854CFE907116660E72AD0FA16938"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Ground/Shore.png",
+    "bytes": 631,
+    "width": 80,
+    "height": 16,
+    "sha256": "72CDA8195FBDDD86A628AE033781A2119FD9F6620829A4C2C9EA2044B342FEE7"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Ground/TexturedGrass.png",
+    "bytes": 6938,
+    "width": 48,
+    "height": 32,
+    "sha256": "16E201C70D3E27B968B988CDE82D3F6791D6B68EFDB110EE1BA13DA48F9339DF"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Ground/Winter.png",
+    "bytes": 657,
+    "width": 128,
+    "height": 16,
+    "sha256": "04428FE04351FA790738A6BA689F1E40582794C200C90A1F36F2896156BB96F6"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Miscellaneous/Boat.png",
+    "bytes": 940,
+    "width": 32,
+    "height": 16,
+    "sha256": "2D9EBA6007DCBA16DD922E0C18A366ADBC21A86365E514D602193479F5F3C9DD"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Miscellaneous/Bridge.png",
+    "bytes": 1331,
+    "width": 80,
+    "height": 48,
+    "sha256": "F91E2FCC9D019E4ACD6C6B011BC6FCA89ADEBCA159E02EE8AE6990430C447108"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Miscellaneous/Chests.png",
+    "bytes": 1039,
+    "width": 32,
+    "height": 16,
+    "sha256": "392948A72121D411BE3E85F50549359634C23F46553EA84F02B44FF00451B959"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Miscellaneous/PirateShip.png",
+    "bytes": 2930,
+    "width": 128,
+    "height": 32,
+    "sha256": "8DC4AB72DE957C1F9C7CB4F5DCB2EB11F1F0BFE36A5FBCEC928BD1D1088A126D"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Miscellaneous/Portal.png",
+    "bytes": 944,
+    "width": 64,
+    "height": 16,
+    "sha256": "CCF366A4B2F6CB7BA79768972BFD95928BD8D8C0FCF8AEEA71337580A0251F87"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Miscellaneous/QuestBoard.png",
+    "bytes": 8024,
+    "width": 64,
+    "height": 16,
+    "sha256": "619DC701F9D756C72D74B504CB008D4403DC307AC52C4669BE2A7BEDB3E66B29"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Miscellaneous/Signs.png",
+    "bytes": 921,
+    "width": 64,
+    "height": 16,
+    "sha256": "894AADA002BD832217D342F5CABB922081C25ECB0AFFB4F994B40D46C330F679"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Miscellaneous/StreetSigns.png",
+    "bytes": 11903,
+    "width": 80,
+    "height": 16,
+    "sha256": "83D9E5D2CF9571947D48479448018EE16F76FC68B47017D87A139B23FF52BC47"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Miscellaneous/Tombstones.png",
+    "bytes": 1114,
+    "width": 64,
+    "height": 32,
+    "sha256": "9D297B4CDABDB1F6071D2BEF89DB1D613A73A6B6FFCC4546419AC2F761DFB6EB"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Miscellaneous/TransportShip.png",
+    "bytes": 1505,
+    "width": 96,
+    "height": 32,
+    "sha256": "C3D3EC3B295137CF7CD907189DCDC066F3FD1B79C84EA6AAB03A86BEC42E7B5E"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Miscellaneous/WarShip.png",
+    "bytes": 3256,
+    "width": 128,
+    "height": 64,
+    "sha256": "500022AD159C0B1A04A229C68AABDCBE5E752EE1ADFE1570F28E6D981EA7C232"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Miscellaneous/Well.png",
+    "bytes": 1090,
+    "width": 48,
+    "height": 32,
+    "sha256": "F65295588C25F3C318CFAE6F80685D594A2A06D0A88AD3116E760E25F1A896C1"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Nature/Cactus.png",
+    "bytes": 1689,
+    "width": 64,
+    "height": 32,
+    "sha256": "CE5B047A47227A068E78E60BBA5F65BC978C8DEA7C6EAF1F369E55B757F8BC41"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Nature/CoconutTrees.png",
+    "bytes": 1324,
+    "width": 96,
+    "height": 16,
+    "sha256": "E492058CB33952B4BE5EE0D5E9D5A5C1467ECB3FDA94589FE7BB134DE3212A59"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Nature/DeadTrees.png",
+    "bytes": 1034,
+    "width": 64,
+    "height": 16,
+    "sha256": "46430BD9E45312F608D4AACB3D3B15A4177C1CE274E1399F07DC6E80CDED46AB"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Nature/PineTrees.png",
+    "bytes": 1131,
+    "width": 48,
+    "height": 16,
+    "sha256": "5AB0BDE8CB1904BA8C54CB93415C0257CF3F13CE6B470834DEE840789DFE60BD"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Nature/Rocks.png",
+    "bytes": 1972,
+    "width": 48,
+    "height": 64,
+    "sha256": "ACA2DB4406062190FA5D8F1622451E17CF3C9E9178D82DB4B22DF72C3E54EFE4"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Nature/Trees.png",
+    "bytes": 1435,
+    "width": 64,
+    "height": 16,
+    "sha256": "5B2839EC295C72575C5FD1DF373B75BA4D3464478EDAB8E1489EC683DCECF634"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Nature/Tumbleweed.png",
+    "bytes": 851,
+    "width": 32,
+    "height": 16,
+    "sha256": "E4CE79343BB6BDEC854C85E709DC592154C57986A42944BE424A9566FB26DD0F"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Nature/Wheatfield.png",
+    "bytes": 1079,
+    "width": 64,
+    "height": 16,
+    "sha256": "E7868D240DA663E9A61A8424A84FE61495ADA17A8DF2A56C0A91E5B07F24640F"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Nature/WinterDeadTrees.png",
+    "bytes": 1342,
+    "width": 64,
+    "height": 16,
+    "sha256": "1F83E03479311835B291036F7EC15687F1BE4888E98AB36936B2256BB93058BE"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Nature/WinterTrees.png",
+    "bytes": 1843,
+    "width": 64,
+    "height": 64,
+    "sha256": "3C398C237BE2D212AA9F382C89E1663080ECB9A9EB1FAB42EF36837C06B758BE"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Objects/ArrowLong.png",
+    "bytes": 766,
+    "width": 32,
+    "height": 32,
+    "sha256": "ACE8E6753AA1F42F08776983F2C421CE5637A9D192F6087A403DBA34F1E674AF"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Objects/ArrowShort.png",
+    "bytes": 794,
+    "width": 32,
+    "height": 32,
+    "sha256": "85BF86F574F57D1DAA99D94F175DE7F2BC7C2F229EF6E6320A4714748E5D3671"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Objects/Axe.png",
+    "bytes": 1498,
+    "width": 64,
+    "height": 32,
+    "sha256": "5A4E4C5469C45ED60FFA4633C0B179A8EA0C6E767393E36B1B7625D6CF6F21BB"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Objects/BallistaBolt.png",
+    "bytes": 795,
+    "width": 32,
+    "height": 16,
+    "sha256": "364B1D53A9AB5AFC5A5150746DBEF4C26F7E3DA6DDC832CCC5A1E07C764E6F53"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Objects/Bullet.png",
+    "bytes": 679,
+    "width": 32,
+    "height": 32,
+    "sha256": "804129F944F54DA8A552A5758091EA20D82102A80B28B5BA4DE2673E17DDEDDD"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Objects/FireballProjectile.png",
+    "bytes": 1167,
+    "width": 64,
+    "height": 16,
+    "sha256": "81EF84FB927E651E4E73F5E0B4CCCFC623F6BBB7CF038E76BC70AE21CFB8EEB4"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Objects/ShortBig.png",
+    "bytes": 924,
+    "width": 32,
+    "height": 16,
+    "sha256": "57B12087C71A42637823C26111D2848F046C6CE75B9952127146B5FCF22D8204"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Objects/Spear.png",
+    "bytes": 696,
+    "width": 32,
+    "height": 16,
+    "sha256": "897E87CBD2CF5CAB943273EB990979694629DF06B9C1D264464013A01D968E37"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Objects/SwordShort.png",
+    "bytes": 899,
+    "width": 32,
+    "height": 16,
+    "sha256": "702FE5B8E12C09F73FB03611D71081BA38903E895D6D4DF275AA8A77076827F5"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Templates/16x16Large.png",
+    "bytes": 2288,
+    "width": 720,
+    "height": 288,
+    "sha256": "F2140993200C24260CAD9248D992C5E084C968EB2F00DDF697DCDAF8C299BB5D"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Templates/16x16Small.png",
+    "bytes": 1189,
+    "width": 192,
+    "height": 271,
+    "sha256": "E6B0A80E9520B8137C4FD15A2816B80E935A49FAC31A4912E98A07ADAA262D6C"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/Templates/32x32Small.png",
+    "bytes": 14516,
+    "width": 160,
+    "height": 160,
+    "sha256": "B93FB5B92EB41D36539F51977BAC4E98156647670E842F280194A22942158AB7"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/User Interface/BoxSelector.png",
+    "bytes": 790,
+    "width": 32,
+    "height": 16,
+    "sha256": "65C95EB908B84324879D10B6C61397C36AF841CB3CEAA9561D16CD47549CA315"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/User Interface/Highlighted-Boxes.png",
+    "bytes": 650,
+    "width": 80,
+    "height": 16,
+    "sha256": "491406A4F6BC7D5DFE7329D0D13A7BDD51A1BAE7C90BDC043A6BA0D03DD1382D"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/User Interface/Icons-Essentials.png",
+    "bytes": 4664,
+    "width": 64,
+    "height": 64,
+    "sha256": "B33745734F3101BCF1D3453131D43BA9EC8B153F0B6A6E8B43A18DC3901EC342"
+  },
+  {
+    "path": "maingamesprites/MiniWorldSprites/User Interface/UiIcons.png",
+    "bytes": 9950,
+    "width": 64,
+    "height": 192,
+    "sha256": "DE2EA5B1C22B2A8FB643C2D6BD35C808B5A9502A5512A40C95E42F1DEF165B7C"
+  },
+  {
+    "path": "ui/Action_panel.png",
+    "bytes": 2549,
+    "width": 192,
+    "height": 96,
+    "sha256": "0816398D8DABBBF0A3B8B196142258C9ADD14F25721D141FA78A2CBA925C0D0C"
+  },
+  {
+    "path": "ui/Buttons.png",
+    "bytes": 16374,
+    "width": 400,
+    "height": 528,
+    "sha256": "D48D6F7158B8B3F4F198B16BBAA408412B6A93AA366C0D9594807830030A6695"
+  },
+  {
+    "path": "ui/character_panel.png",
+    "bytes": 5391,
+    "width": 192,
+    "height": 160,
+    "sha256": "DF367DC647EE07476C0B184090AC2BD76D6CE540565B2C3079A4360BE5C610DA"
+  },
+  {
+    "path": "ui/Circle_menu.png",
+    "bytes": 11306,
+    "width": 256,
+    "height": 320,
+    "sha256": "5209235631780B4832E887BFA95B73EF90DBC82A42649C87FE4891EF6559FAA2"
+  },
+  {
+    "path": "ui/Craft.png",
+    "bytes": 26421,
+    "width": 624,
+    "height": 480,
+    "sha256": "783A789A85076A0233884B488C542BAEC8B7763C92A5698C0FCBC35645287606"
+  },
+  {
+    "path": "ui/Decorative_cracks.png",
+    "bytes": 5672,
+    "width": 384,
+    "height": 192,
+    "sha256": "3FE3FBBACF327859510CE3AF9DF15A21B4E556A6EDF123A751BAF0F9FF433366"
+  },
+  {
+    "path": "ui/Equipment.png",
+    "bytes": 11672,
+    "width": 160,
+    "height": 384,
+    "sha256": "AE7D4F1AFB33B4EBB818223B2A495534BEDDDCD908988A820ADA68F3E9A3087B"
+  },
+  {
+    "path": "ui/Icons.png",
+    "bytes": 13890,
+    "width": 96,
+    "height": 304,
+    "sha256": "76343656D7705FBD844F19CC58B48CA96070A22EAC9009AC2827D41D582EBFFA"
+  },
+  {
+    "path": "ui/Inventory.png",
+    "bytes": 8175,
+    "width": 336,
+    "height": 160,
+    "sha256": "FBA22498887F45CBAC3FF8A2CFEA4849BBD3687CD773886D4F40C915E6693869"
+  },
+  {
+    "path": "ui/Levels.png",
+    "bytes": 6522,
+    "width": 384,
+    "height": 208,
+    "sha256": "5CC5DDEAC74547678830976BE1FC5669993DAECCFB76024A35208B216688D08F"
+  },
+  {
+    "path": "ui/Main_menu.png",
+    "bytes": 4948,
+    "width": 496,
+    "height": 176,
+    "sha256": "A53535C4529F8A9794E6875A83A8213A96DC196B0ED139225B2DF30B7B3BFA52"
+  },
+  {
+    "path": "ui/Main_tiles.png",
+    "bytes": 9702,
+    "width": 384,
+    "height": 304,
+    "sha256": "C005DB6E817798FC64B8D54423D05A904B1DBB561B0E8A055B3D73CF3018FAE3"
+  },
+  {
+    "path": "ui/Numbers_levels.png",
+    "bytes": 4594,
+    "width": 320,
+    "height": 336,
+    "sha256": "EF771CA0AD26778E7A3FC27C3B7CACDFE5DA5E3FBA7D5B5037C74EDA361E7FE9"
+  },
+  {
+    "path": "ui/Numbers.png",
+    "bytes": 8005,
+    "width": 160,
+    "height": 800,
+    "sha256": "6B20CCAB00F29B9C7904D9DD81098D6215EBA75580866A1430A9F09857311AAC"
+  },
+  {
+    "path": "ui/Settings.png",
+    "bytes": 7364,
+    "width": 336,
+    "height": 256,
+    "sha256": "8AA8FC6E056017E9C91BDB7B79881106D11CB6EFD88BAFBD52FE77BEAB503C5F"
+  },
+  {
+    "path": "ui/Shop.png",
+    "bytes": 8455,
+    "width": 512,
+    "height": 240,
+    "sha256": "70E8B012709727C7FE5286FF87D83B894DD8B59757389FD738C5BB492E8C2F49"
+  },
+  {
+    "path": "ui/Text1.png",
+    "bytes": 5026,
+    "width": 70,
+    "height": 322,
+    "sha256": "6814525CE0B7F2798469EE1875A7AB9A5194FCD5E1FB1C191F0226F0AD2C32B5"
+  },
+  {
+    "path": "ui/Text2.png",
+    "bytes": 3456,
+    "width": 51,
+    "height": 222,
+    "sha256": "413366A045AA6599E35EAA35B807C73F6752C0CB71F0A8EEB6C82232E5A94FC6"
+  },
+  {
+    "path": "ui/Win_loose.png",
+    "bytes": 17511,
+    "width": 448,
+    "height": 416,
+    "sha256": "C2288267AB2311358D179B98FEEE13FAE8C0465164A65FE28594060B77F2F0C8"
+  },
+  {
+    "path": "ui/PNG/Action_panel.png",
+    "bytes": 2549,
+    "width": 192,
+    "height": 96,
+    "sha256": "0816398D8DABBBF0A3B8B196142258C9ADD14F25721D141FA78A2CBA925C0D0C"
+  },
+  {
+    "path": "ui/PNG/Buttons.png",
+    "bytes": 16374,
+    "width": 400,
+    "height": 528,
+    "sha256": "D48D6F7158B8B3F4F198B16BBAA408412B6A93AA366C0D9594807830030A6695"
+  },
+  {
+    "path": "ui/PNG/character_panel.png",
+    "bytes": 5391,
+    "width": 192,
+    "height": 160,
+    "sha256": "DF367DC647EE07476C0B184090AC2BD76D6CE540565B2C3079A4360BE5C610DA"
+  },
+  {
+    "path": "ui/PNG/Circle_menu.png",
+    "bytes": 11306,
+    "width": 256,
+    "height": 320,
+    "sha256": "5209235631780B4832E887BFA95B73EF90DBC82A42649C87FE4891EF6559FAA2"
+  },
+  {
+    "path": "ui/PNG/Craft.png",
+    "bytes": 26421,
+    "width": 624,
+    "height": 480,
+    "sha256": "783A789A85076A0233884B488C542BAEC8B7763C92A5698C0FCBC35645287606"
+  },
+  {
+    "path": "ui/PNG/Decorative_cracks.png",
+    "bytes": 5672,
+    "width": 384,
+    "height": 192,
+    "sha256": "3FE3FBBACF327859510CE3AF9DF15A21B4E556A6EDF123A751BAF0F9FF433366"
+  },
+  {
+    "path": "ui/PNG/Equipment.png",
+    "bytes": 11672,
+    "width": 160,
+    "height": 384,
+    "sha256": "AE7D4F1AFB33B4EBB818223B2A495534BEDDDCD908988A820ADA68F3E9A3087B"
+  },
+  {
+    "path": "ui/PNG/Icons.png",
+    "bytes": 13890,
+    "width": 96,
+    "height": 304,
+    "sha256": "76343656D7705FBD844F19CC58B48CA96070A22EAC9009AC2827D41D582EBFFA"
+  },
+  {
+    "path": "ui/PNG/Inventory.png",
+    "bytes": 8175,
+    "width": 336,
+    "height": 160,
+    "sha256": "FBA22498887F45CBAC3FF8A2CFEA4849BBD3687CD773886D4F40C915E6693869"
+  },
+  {
+    "path": "ui/PNG/Levels.png",
+    "bytes": 6522,
+    "width": 384,
+    "height": 208,
+    "sha256": "5CC5DDEAC74547678830976BE1FC5669993DAECCFB76024A35208B216688D08F"
+  },
+  {
+    "path": "ui/PNG/Main_menu.png",
+    "bytes": 4948,
+    "width": 496,
+    "height": 176,
+    "sha256": "A53535C4529F8A9794E6875A83A8213A96DC196B0ED139225B2DF30B7B3BFA52"
+  },
+  {
+    "path": "ui/PNG/Main_tiles.png",
+    "bytes": 9702,
+    "width": 384,
+    "height": 304,
+    "sha256": "C005DB6E817798FC64B8D54423D05A904B1DBB561B0E8A055B3D73CF3018FAE3"
+  },
+  {
+    "path": "ui/PNG/Numbers_levels.png",
+    "bytes": 4594,
+    "width": 320,
+    "height": 336,
+    "sha256": "EF771CA0AD26778E7A3FC27C3B7CACDFE5DA5E3FBA7D5B5037C74EDA361E7FE9"
+  },
+  {
+    "path": "ui/PNG/Numbers.png",
+    "bytes": 8005,
+    "width": 160,
+    "height": 800,
+    "sha256": "6B20CCAB00F29B9C7904D9DD81098D6215EBA75580866A1430A9F09857311AAC"
+  },
+  {
+    "path": "ui/PNG/Settings.png",
+    "bytes": 7364,
+    "width": 336,
+    "height": 256,
+    "sha256": "8AA8FC6E056017E9C91BDB7B79881106D11CB6EFD88BAFBD52FE77BEAB503C5F"
+  },
+  {
+    "path": "ui/PNG/Shop.png",
+    "bytes": 8455,
+    "width": 512,
+    "height": 240,
+    "sha256": "70E8B012709727C7FE5286FF87D83B894DD8B59757389FD738C5BB492E8C2F49"
+  },
+  {
+    "path": "ui/PNG/Text1.png",
+    "bytes": 5026,
+    "width": 70,
+    "height": 322,
+    "sha256": "6814525CE0B7F2798469EE1875A7AB9A5194FCD5E1FB1C191F0226F0AD2C32B5"
+  },
+  {
+    "path": "ui/PNG/Text2.png",
+    "bytes": 3456,
+    "width": 51,
+    "height": 222,
+    "sha256": "413366A045AA6599E35EAA35B807C73F6752C0CB71F0A8EEB6C82232E5A94FC6"
+  },
+  {
+    "path": "ui/PNG/Win_loose.png",
+    "bytes": 17511,
+    "width": 448,
+    "height": 416,
+    "sha256": "C2288267AB2311358D179B98FEEE13FAE8C0465164A65FE28594060B77F2F0C8"
+  },
+  {
+    "path": "font/bitmap/monogram-bitfontmaker.json",
+    "bytes": 18419,
+    "width": null,
+    "height": null,
+    "sha256": "AF4C1385D947E1A0F7CCB28C045436C3759200499CDF599BAD1E73AAB9ABC3AB"
+  },
+  {
+    "path": "font/bitmap/monogram-bitmap.json",
+    "bytes": 14533,
+    "width": null,
+    "height": null,
+    "sha256": "847E18D10ECD0FD4362EE0088A1BC56F9B203136B544D45DB17426FF91913938"
+  },
+  {
+    "path": "font/bitmap/monogram-bitmap.png",
+    "bytes": 1376,
+    "width": 96,
+    "height": 96,
+    "sha256": "05F65549CD421C9B1A263EF1F4B2CEC95B7D8474AE967FFDC9FA28FBAF08BAC7"
+  },
+  {
+    "path": "font/bitmap/monogram-italic-bitmap.png",
+    "bytes": 1448,
+    "width": 96,
+    "height": 96,
+    "sha256": "F1349A281CAE854DB39075217632EA009FDD4899E731CBC8DD10EB69958260B0"
+  },
+  {
+    "path": "font/ttf/monogram-extended-italic.ttf",
+    "bytes": 60904,
+    "width": null,
+    "height": null,
+    "sha256": "EB506DD378FC5DBC813CB9FB6BDB2DA576FC7B6F53176FD9E5C0B7BE73779B1A"
+  },
+  {
+    "path": "font/ttf/monogram-extended.ttf",
+    "bytes": 59008,
+    "width": null,
+    "height": null,
+    "sha256": "68648B5C939C4935D8EC7B3A0614C8E7DC3BA23CAA11070456A154600E4D2171"
+  },
+  {
+    "path": "font/ttf/monogram.ttf",
+    "bytes": 10468,
+    "width": null,
+    "height": null,
+    "sha256": "13658C0D344553A6C272BF9E72E0F2B6EDF23AC5ECF066837D9B61254B7452D6"
+  },
+  {
+    "path": "sfx/01_chest_open_1.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "75BC7FEBEB70FE15B76381B041455E2A3DB33D8A369C15644FF4BD1617A20DEF"
+  },
+  {
+    "path": "sfx/01_chest_open_2.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "4D850E22E3AF1E74636FF0F09549CC16FC9890AA71B79207C1E360DE472E5D00"
+  },
+  {
+    "path": "sfx/01_chest_open_3.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "8150D6178727F45662A291B8635D8D990317D3E181900DD64CFA9A6AF73A3C46"
+  },
+  {
+    "path": "sfx/01_chest_open_4.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "F76D7F809B16289560073FDA0FF8131A4B951881D6BC87C3C4AE4A17C4416F26"
+  },
+  {
+    "path": "sfx/02_chest_close_1.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "8369F25F19D7C377E8EE66F3241C2AD64DE27845CF495193D30B2F7670DDD694"
+  },
+  {
+    "path": "sfx/02_chest_close_2.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "2529FC9AECA751ECE9B69FD29D4EC72D3DFCF2C64DDCF128F52F586A1FFCDA70"
+  },
+  {
+    "path": "sfx/02_chest_close_3.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "4EA0912A8A1968DBAC950135202C0690AE5C1F34B7EE7AE8F89F3AA0403FAD4C"
+  },
+  {
+    "path": "sfx/03_crate_open_1.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "3ECC2155B8C12ABBABBF33B18203DE8CABADC30503A1EB509B8C40117C4392D2"
+  },
+  {
+    "path": "sfx/03_crate_open_2.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "DBD6B1C19B1E4E9FA67508AB6940C576AEB19B032C166801975AA4B1FE06870D"
+  },
+  {
+    "path": "sfx/03_crate_open_3.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "752FBAEDA5D2537D9BCE8D87E44BF3EF030E1C4B306F2DF5CE16705772FACCFF"
+  },
+  {
+    "path": "sfx/04_sack_open_1.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "1128CB24FAF40526327239F9B7D6465FDC7F6BA78CFD8EB4B62DE1ED706E8A92"
+  },
+  {
+    "path": "sfx/04_sack_open_2.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "6940E02C2129C5A4CA524E66A7E7B7FE493F423E8B589D5AC973C1B3CC4A3482"
+  },
+  {
+    "path": "sfx/04_sack_open_3.wav",
+    "bytes": 118336,
+    "width": null,
+    "height": null,
+    "sha256": "E86F0FB4669E351314BF1B20EA4068652F58A6491E2762CE291BDBE8B1A02CCF"
+  },
+  {
+    "path": "sfx/05_door_open_1.mp3",
+    "bytes": 22568,
+    "width": null,
+    "height": null,
+    "sha256": "8A335E37100FCD24E28A05EB1572589E20191595128A188F4FE00279876DFCE3"
+  },
+  {
+    "path": "sfx/05_door_open_2.mp3",
+    "bytes": 22568,
+    "width": null,
+    "height": null,
+    "sha256": "EEA73AD3F8488A02FCBADE1FDE7E14B377FFA72E9772668E80B1BFD498E5D5C2"
+  },
+  {
+    "path": "sfx/06_door_close_1.mp3",
+    "bytes": 22568,
+    "width": null,
+    "height": null,
+    "sha256": "1C09F70B90345B661E9518693F0F8EF6F9BD4DB3476EDA443B65165357B7CD5D"
+  },
+  {
+    "path": "sfx/06_door_close_2.mp3",
+    "bytes": 22568,
+    "width": null,
+    "height": null,
+    "sha256": "34E586D14DA03B648FB3E7BCD93074BA8B8F93C9933FECCCAC1AF13D21C9E1DD"
+  },
+  {
+    "path": "sfx/07_human_atk_sword_1.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "197286C065D27819E8448F9F93466228CEED298808B768849DABCFCE3D23ECBE"
+  },
+  {
+    "path": "sfx/07_human_atk_sword_2.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "35D89CFF9A3E018C4A1D75996B55DAAB3C31EFA7F48E34286E403E6DB2B5012C"
+  },
+  {
+    "path": "sfx/07_human_atk_sword_3.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "36F6FBD2B60DBDB333BEEF6A48171D08049013411E8E2C750DB05D6BF753327F"
+  },
+  {
+    "path": "sfx/08_human_charge_1.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "9B07F79E40DACFF2D31AAF88D5EF5BFF467C52EDCBAACC5F5891EF17308C0B61"
+  },
+  {
+    "path": "sfx/08_human_charge_2.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "E0D00CD3A71A4FD16D717F8D4EAC789B3FE880A0E5717F750D70D9B37CBA7451"
+  },
+  {
+    "path": "sfx/09_human_charging_1_loop.wav",
+    "bytes": 794542,
+    "width": null,
+    "height": null,
+    "sha256": "5C0420D7E3DCF9E19074DE923AD0FDD5E21682215B97DC7AA90CA340EE595F93"
+  },
+  {
+    "path": "sfx/09_human_charging_2_loop.wav",
+    "bytes": 529936,
+    "width": null,
+    "height": null,
+    "sha256": "CFE06B61A421C81E119E99E2F09BCCC66243304F0D0E009C9A39545EFE3CB115"
+  },
+  {
+    "path": "sfx/10_human_special_atk_1.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "DD1A0EE67E22AD94C07C2D2B1FED2D97815509429DADE68764E296A1D155B4D3"
+  },
+  {
+    "path": "sfx/10_human_special_atk_2.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "DA7D537C91D780B3C576CF5B7902569206DA354C88CE9A882D577C9F8A77C22D"
+  },
+  {
+    "path": "sfx/11_human_damage_1.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "4303112FB78FF0ACAEDEC5A90B21060851D4378F661430A379E9E6C5BA86DE18"
+  },
+  {
+    "path": "sfx/11_human_damage_2.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "B1F105F11ED8C897394460E95DF33D2F10407ED272473F31D67B71980605706D"
+  },
+  {
+    "path": "sfx/11_human_damage_3.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "F03F7759504BE23286B3CE4447DF26E078CA83F2B37FB3B0923B1D6EF0E33CCB"
+  },
+  {
+    "path": "sfx/12_human_jump_1.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "76047F5FA3015450960FC53E8B91FA5A9ED0E3A28C834AACFEEF08647E9E37C4"
+  },
+  {
+    "path": "sfx/12_human_jump_2.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "417864DD72555FA8BD57CFD72D1C219AD6495EB86A852C21B39E6C538040CB88"
+  },
+  {
+    "path": "sfx/12_human_jump_3.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "FBD0503069A10371EFC1BB46082141DF69659808EF7AAD30B88FC8B48CAFDE29"
+  },
+  {
+    "path": "sfx/13_human_jump_land_1.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "A20BFB5F85BD5F894F72C6E9587E88509FF58EF055C6624A411BA5AEA99AA2D2"
+  },
+  {
+    "path": "sfx/13_human_jump_land_2.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "541CAF0BE945BFECB42DE580D969DF2DE333C8851320CF7241984FE49F53019E"
+  },
+  {
+    "path": "sfx/14_human_death_spin.wav",
+    "bytes": 529936,
+    "width": null,
+    "height": null,
+    "sha256": "083AEFC6C6E23350121EE3A0D09774DAEA84CBECE9182501E7D616334B6BF298"
+  },
+  {
+    "path": "sfx/15_human_dash_1.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "939EE713F9ED227CE51DA545F586104D3DABDC67C6893F9A7BB87775FD50F05E"
+  },
+  {
+    "path": "sfx/15_human_dash_2.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "7893C7106DFD167087B09799D463DDB25BD2AC4739AA3592254402AF4184DC36"
+  },
+  {
+    "path": "sfx/16_human_walk_stone_1.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "0DE8FFF7FF8803FAEFBEF1B20DE69E60CE8B316CFDBBE3B70B0E4D9EFA428A78"
+  },
+  {
+    "path": "sfx/16_human_walk_stone_2.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "60A747F0FA61F2D53F22A9FAE81443D16226193BF10E8DBB9D65A41E70CCEEBB"
+  },
+  {
+    "path": "sfx/16_human_walk_stone_3.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "3B4814AB587811019DAB42CFE37B92FCAE1CB682486219F9418C699C7183D900"
+  },
+  {
+    "path": "sfx/17_orc_atk_sword_1.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "213CBF1E7C99F25ED37FB80D3DCC6CF1FDF2D097F8595E49B5DB311E737AE021"
+  },
+  {
+    "path": "sfx/17_orc_atk_sword_2.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "36CB4EA24D72BB7F12D95F5F1AE0CBCCF613801B97704998AA09F2EC05D34866"
+  },
+  {
+    "path": "sfx/17_orc_atk_sword_3.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "AE7D5DF2DEE7017FD009776CE52DDCD6A0CFBC7FF29ADF982642CE1A6590F831"
+  },
+  {
+    "path": "sfx/18_orc_charge.wav",
+    "bytes": 353536,
+    "width": null,
+    "height": null,
+    "sha256": "FE1A1DBA309A45E25360679D4C33F8DD2C4C43F4A0E6E916B0578CF6F7A1659F"
+  },
+  {
+    "path": "sfx/19_orc_charging_loop.wav",
+    "bytes": 529936,
+    "width": null,
+    "height": null,
+    "sha256": "1076BDB0D365B06F683CD805420181BB74737BFB692D5C332CE72ABB01F2E915"
+  },
+  {
+    "path": "sfx/20_orc_special_atk.wav",
+    "bytes": 529936,
+    "width": null,
+    "height": null,
+    "sha256": "9A492B9B0118E1B196C27883D3755ED0080ED4672B8EB69955F48C39457BDCE0"
+  },
+  {
+    "path": "sfx/21_orc_damage_1.wav",
+    "bytes": 529936,
+    "width": null,
+    "height": null,
+    "sha256": "04056ABE06840DF26E181CB80DA8AC437F7D37535244E2F2226210A3619D0165"
+  },
+  {
+    "path": "sfx/21_orc_damage_2.wav",
+    "bytes": 529936,
+    "width": null,
+    "height": null,
+    "sha256": "5D1D63D23C5D8C2F8E3E768863E22F023A8341C264D94A2B3F1DA7AB5EA15AAD"
+  },
+  {
+    "path": "sfx/21_orc_damage_3.wav",
+    "bytes": 529936,
+    "width": null,
+    "height": null,
+    "sha256": "591DA0338F2DAB7AE3C7EDBC960A69C370BDCECE84B40283730F10938423625A"
+  },
+  {
+    "path": "sfx/22_orc_jump_1.wav",
+    "bytes": 529936,
+    "width": null,
+    "height": null,
+    "sha256": "C8EB21E2699CE973FB9AF3F7EAB6E1C6F1A3D710E4FB2D128B7D9019EC4B5001"
+  },
+  {
+    "path": "sfx/22_orc_jump_2.wav",
+    "bytes": 529936,
+    "width": null,
+    "height": null,
+    "sha256": "A15644C58EB1F0DDAE5CA4B01615B8D9F8D44F7B546CA21C399DA9BB1E8FD032"
+  },
+  {
+    "path": "sfx/23_orc_jump_land.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "DC0C6D7C3D2693FD7CEF02C48B9A604FCBB369AFE5C4CDDDCABFEDC704A776B5"
+  },
+  {
+    "path": "sfx/24_orc_death_spin.wav",
+    "bytes": 529936,
+    "width": null,
+    "height": null,
+    "sha256": "39C1AF9D01934897E1DED5744E927912C0142727E73E74AC922011B867509CA3"
+  },
+  {
+    "path": "sfx/25_orc_walk_stone_1.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "43D2E4E2E960444BCE7669C8A5A349B654C46270F82B0395F57AC39974D307E3"
+  },
+  {
+    "path": "sfx/25_orc_walk_stone_2.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "AFF9F3CB1C495BBB3C45694EF61B49984F2F395C6A169ED7E874DFE32EA50E7E"
+  },
+  {
+    "path": "sfx/25_orc_walk_stone_3.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "1E48C526CD4CCFA6BE56B3561512BB4D6E92EB787F8730C1ED7D22F349BDD476"
+  },
+  {
+    "path": "sfx/26_sword_hit_1.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "B8A55776B70A60A1D4058CFB0528BA4897382ACF7CD0E36B9A7D990D59762A95"
+  },
+  {
+    "path": "sfx/26_sword_hit_2.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "BB72971E25A6B50B9424C9D1C698D6D6554AB1BB5A588BA96638D734CC692478"
+  },
+  {
+    "path": "sfx/26_sword_hit_3.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "67C57C0577FDC98CD14730262B9C03425D0112E99079183CE1A218A9E294E8CF"
+  },
+  {
+    "path": "sfx/27_sword_miss_1.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "B07FB410BCD5BA82E93C059A0E0D0EB3305D823AA1F5AAA0D7C6DA65B88D17E3"
+  },
+  {
+    "path": "sfx/27_sword_miss_2.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "7134E6B590136F9F1D447736247B28A0D148B3B434BEB1BF7EF0313E0764B6D9"
+  },
+  {
+    "path": "sfx/27_sword_miss_3.wav",
+    "bytes": 177136,
+    "width": null,
+    "height": null,
+    "sha256": "18A930FD057F7B06C0A21692BD751D121169BFE1F254561ED39CCBA3EB75EAEB"
+  },
+  {
+    "path": "music/Minifantasy_Dungeon_Music/Acknowledgements.txt",
+    "bytes": 252,
+    "width": null,
+    "height": null,
+    "sha256": "504F6EB9B66D079E702727E145DF1BE8A8995FB8CFFA356FDB091982C8E49DD8"
+  },
+  {
+    "path": "music/Minifantasy_Dungeon_Music/Licensing.txt",
+    "bytes": 295,
+    "width": null,
+    "height": null,
+    "sha256": "0BDEE340D19C95CB738CEFEBA4B580E138C65C4DC4C91903030C1E8FE1E8C142"
+  },
+  {
+    "path": "music/Minifantasy_Dungeon_Music/Patreon_Leohpaz.url",
+    "bytes": 131,
+    "width": null,
+    "height": null,
+    "sha256": "957796F612C25645E5E7BE2FCA2FC7743F190DC8405C3E949D449FA955BF782A"
+  },
+  {
+    "path": "music/Minifantasy_Dungeon_Music/Music/Goblins_Dance_(Battle).wav",
+    "bytes": 13930648,
+    "width": null,
+    "height": null,
+    "sha256": "B18017830528962B170007B402550CF1F8DA1D1A95E0F290EA6155108AA6DCE4"
+  },
+  {
+    "path": "music/Minifantasy_Dungeon_Music/Music/Goblins_Den_(Regular).wav",
+    "bytes": 15241696,
+    "width": null,
+    "height": null,
+    "sha256": "EA8490BDFD64A0BF082242472A2B8A1162948F106567F313AA97C467B4CE59F9"
+  }
+]
